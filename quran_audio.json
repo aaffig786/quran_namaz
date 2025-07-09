@@ -1,1727 +1,577 @@
 {
   "reciters": [
     {
-      "name": "مشاری راشد العفاسی",
+      "name": "عبداللہ عواد الجہنی",
       "surahs": [
         {
           "number": 1,
           "name": "سورة الفاتحة",
-          "audio": "https://example.com/mishary/001.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/001/main.m3u8"
         },
         {
           "number": 2,
           "name": "سورة البقرة",
-          "audio": "https://example.com/mishary/002.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/002/main.m3u8"
         },
         {
           "number": 3,
           "name": "سورة آل عمران",
-          "audio": "https://example.com/mishary/003.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/003/main.m3u8"
         },
         {
           "number": 4,
           "name": "سورة النساء",
-          "audio": "https://example.com/mishary/004.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/004/main.m3u8"
         },
         {
           "number": 5,
           "name": "سورة المائدة",
-          "audio": "https://example.com/mishary/005.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/005/main.m3u8"
         },
         {
           "number": 6,
           "name": "سورة الأنعام",
-          "audio": "https://example.com/mishary/006.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/006/main.m3u8"
         },
         {
           "number": 7,
           "name": "سورة الأعراف",
-          "audio": "https://example.com/mishary/007.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/007/main.m3u8"
         },
         {
           "number": 8,
           "name": "سورة الأنفال",
-          "audio": "https://example.com/mishary/008.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/008/main.m3u8"
         },
         {
           "number": 9,
           "name": "سورة التوبة",
-          "audio": "https://example.com/mishary/009.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/009/main.m3u8"
         },
         {
           "number": 10,
           "name": "سورة يونس",
-          "audio": "https://example.com/mishary/010.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/010/main.m3u8"
         },
         {
           "number": 11,
           "name": "سورة هود",
-          "audio": "https://example.com/mishary/011.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/011/main.m3u8"
         },
         {
           "number": 12,
           "name": "سورة يوسف",
-          "audio": "https://example.com/mishary/012.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/012/main.m3u8"
         },
         {
           "number": 13,
           "name": "سورة الرعد",
-          "audio": "https://example.com/mishary/013.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/013/main.m3u8"
         },
         {
           "number": 14,
           "name": "سورة إبراهيم",
-          "audio": "https://example.com/mishary/014.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/014/main.m3u8"
         },
         {
           "number": 15,
           "name": "سورة الحجر",
-          "audio": "https://example.com/mishary/015.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/015/main.m3u8"
         },
         {
           "number": 16,
           "name": "سورة النحل",
-          "audio": "https://example.com/mishary/016.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/016/main.m3u8"
         },
         {
           "number": 17,
           "name": "سورة الإسراء",
-          "audio": "https://example.com/mishary/017.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/017/main.m3u8"
         },
         {
           "number": 18,
           "name": "سورة الكهف",
-          "audio": "https://example.com/mishary/018.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/018/main.m3u8"
         },
         {
           "number": 19,
           "name": "سورة مريم",
-          "audio": "https://example.com/mishary/019.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/019/main.m3u8"
         },
         {
           "number": 20,
           "name": "سورة طه",
-          "audio": "https://example.com/mishary/020.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/020/main.m3u8"
         },
         {
           "number": 21,
           "name": "سورة الأنبياء",
-          "audio": "https://example.com/mishary/021.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/021/main.m3u8"
         },
         {
           "number": 22,
           "name": "سورة الحج",
-          "audio": "https://example.com/mishary/022.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/022/main.m3u8"
         },
         {
           "number": 23,
           "name": "سورة المؤمنون",
-          "audio": "https://example.com/mishary/023.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/023/main.m3u8"
         },
         {
           "number": 24,
           "name": "سورة النور",
-          "audio": "https://example.com/mishary/024.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/024/main.m3u8"
         },
         {
           "number": 25,
           "name": "سورة الفرقان",
-          "audio": "https://example.com/mishary/025.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/025/main.m3u8"
         },
         {
           "number": 26,
           "name": "سورة الشعراء",
-          "audio": "https://example.com/mishary/026.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/026/main.m3u8"
         },
         {
           "number": 27,
           "name": "سورة النمل",
-          "audio": "https://example.com/mishary/027.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/027/main.m3u8"
         },
         {
           "number": 28,
           "name": "سورة القصص",
-          "audio": "https://example.com/mishary/028.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/028/main.m3u8"
         },
         {
           "number": 29,
           "name": "سورة العنكبوت",
-          "audio": "https://example.com/mishary/029.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/029/main.m3u8"
         },
         {
           "number": 30,
           "name": "سورة الروم",
-          "audio": "https://example.com/mishary/030.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/030/main.m3u8"
         },
         {
           "number": 31,
           "name": "سورة لقمان",
-          "audio": "https://example.com/mishary/031.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/031/main.m3u8"
         },
         {
           "number": 32,
           "name": "سورة السجدة",
-          "audio": "https://example.com/mishary/032.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/032/main.m3u8"
         },
         {
           "number": 33,
           "name": "سورة الأحزاب",
-          "audio": "https://example.com/mishary/033.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/033/main.m3u8"
         },
         {
           "number": 34,
           "name": "سورة سبإ",
-          "audio": "https://example.com/mishary/034.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/034/main.m3u8"
         },
         {
           "number": 35,
           "name": "سورة فاطر",
-          "audio": "https://example.com/mishary/035.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/035/main.m3u8"
         },
         {
           "number": 36,
           "name": "سورة يس",
-          "audio": "https://example.com/mishary/036.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/036/main.m3u8"
         },
         {
           "number": 37,
           "name": "سورة الصافات",
-          "audio": "https://example.com/mishary/037.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/037/main.m3u8"
         },
         {
           "number": 38,
           "name": "سورة ص",
-          "audio": "https://example.com/mishary/038.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/038/main.m3u8"
         },
         {
           "number": 39,
           "name": "سورة الزمر",
-          "audio": "https://example.com/mishary/039.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/039/main.m3u8"
         },
         {
           "number": 40,
           "name": "سورة غافر",
-          "audio": "https://example.com/mishary/040.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/040/main.m3u8"
         },
         {
           "number": 41,
           "name": "سورة فصلت",
-          "audio": "https://example.com/mishary/041.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/041/main.m3u8"
         },
         {
           "number": 42,
           "name": "سورة الشورى",
-          "audio": "https://example.com/mishary/042.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/042/main.m3u8"
         },
         {
           "number": 43,
           "name": "سورة الزخرف",
-          "audio": "https://example.com/mishary/043.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/043/main.m3u8"
         },
         {
           "number": 44,
           "name": "سورة الدخان",
-          "audio": "https://example.com/mishary/044.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/044/main.m3u8"
         },
         {
           "number": 45,
           "name": "سورة الجاثية",
-          "audio": "https://example.com/mishary/045.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/045/main.m3u8"
         },
         {
           "number": 46,
           "name": "سورة الأحقاف",
-          "audio": "https://example.com/mishary/046.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/046/main.m3u8"
         },
         {
           "number": 47,
           "name": "سورة محمد",
-          "audio": "https://example.com/mishary/047.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/047/main.m3u8"
         },
         {
           "number": 48,
           "name": "سورة الفتح",
-          "audio": "https://example.com/mishary/048.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/048/main.m3u8"
         },
         {
           "number": 49,
           "name": "سورة الحجرات",
-          "audio": "https://example.com/mishary/049.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/049/main.m3u8"
         },
         {
           "number": 50,
           "name": "سورة ق",
-          "audio": "https://example.com/mishary/050.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/050/main.m3u8"
         },
         {
           "number": 51,
           "name": "سورة الذاريات",
-          "audio": "https://example.com/mishary/051.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/051/main.m3u8"
         },
         {
           "number": 52,
           "name": "سورة الطور",
-          "audio": "https://example.com/mishary/052.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/052/main.m3u8"
         },
         {
           "number": 53,
           "name": "سورة النجم",
-          "audio": "https://example.com/mishary/053.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/053/main.m3u8"
         },
         {
           "number": 54,
           "name": "سورة القمر",
-          "audio": "https://example.com/mishary/054.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/054/main.m3u8"
         },
         {
           "number": 55,
           "name": "سورة الرحمن",
-          "audio": "https://example.com/mishary/055.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/055/main.m3u8"
         },
         {
           "number": 56,
           "name": "سورة الواقعة",
-          "audio": "https://example.com/mishary/056.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/056/main.m3u8"
         },
         {
           "number": 57,
           "name": "سورة الحديد",
-          "audio": "https://example.com/mishary/057.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/057/main.m3u8"
         },
         {
           "number": 58,
           "name": "سورة المجادلة",
-          "audio": "https://example.com/mishary/058.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/058/main.m3u8"
         },
         {
           "number": 59,
           "name": "سورة الحشر",
-          "audio": "https://example.com/mishary/059.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/059/main.m3u8"
         },
         {
           "number": 60,
           "name": "سورة الممتحنة",
-          "audio": "https://example.com/mishary/060.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/060/main.m3u8"
         },
         {
           "number": 61,
           "name": "سورة الصف",
-          "audio": "https://example.com/mishary/061.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/061/main.m3u8"
         },
         {
           "number": 62,
           "name": "سورة الجمعة",
-          "audio": "https://example.com/mishary/062.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/062/main.m3u8"
         },
         {
           "number": 63,
           "name": "سورة المنافقون",
-          "audio": "https://example.com/mishary/063.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/063/main.m3u8"
         },
         {
           "number": 64,
           "name": "سورة التغابن",
-          "audio": "https://example.com/mishary/064.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/064/main.m3u8"
         },
         {
           "number": 65,
           "name": "سورة الطلاق",
-          "audio": "https://example.com/mishary/065.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/065/main.m3u8"
         },
         {
           "number": 66,
           "name": "سورة التحريم",
-          "audio": "https://example.com/mishary/066.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/066/main.m3u8"
         },
         {
           "number": 67,
           "name": "سورة الملك",
-          "audio": "https://example.com/mishary/067.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/067/main.m3u8"
         },
         {
           "number": 68,
           "name": "سورة القلم",
-          "audio": "https://example.com/mishary/068.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/068/main.m3u8"
         },
         {
           "number": 69,
           "name": "سورة الحاقة",
-          "audio": "https://example.com/mishary/069.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/069/main.m3u8"
         },
         {
           "number": 70,
           "name": "سورة المعارج",
-          "audio": "https://example.com/mishary/070.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/070/main.m3u8"
         },
         {
           "number": 71,
           "name": "سورة نوح",
-          "audio": "https://example.com/mishary/071.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/071/main.m3u8"
         },
         {
           "number": 72,
           "name": "سورة الجن",
-          "audio": "https://example.com/mishary/072.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/072/main.m3u8"
         },
         {
           "number": 73,
           "name": "سورة المزمل",
-          "audio": "https://example.com/mishary/073.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/073/main.m3u8"
         },
         {
           "number": 74,
           "name": "سورة المدثر",
-          "audio": "https://example.com/mishary/074.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/074/main.m3u8"
         },
         {
           "number": 75,
           "name": "سورة القيامة",
-          "audio": "https://example.com/mishary/075.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/075/main.m3u8"
         },
         {
           "number": 76,
           "name": "سورة الإنسان",
-          "audio": "https://example.com/mishary/076.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/076/main.m3u8"
         },
         {
           "number": 77,
           "name": "سورة المرسلات",
-          "audio": "https://example.com/mishary/077.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/077/main.m3u8"
         },
         {
           "number": 78,
           "name": "سورة النبأ",
-          "audio": "https://example.com/mishary/078.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/078/main.m3u8"
         },
         {
           "number": 79,
           "name": "سورة النازعات",
-          "audio": "https://example.com/mishary/079.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/079/main.m3u8"
         },
         {
           "number": 80,
           "name": "سورة عبس",
-          "audio": "https://example.com/mishary/080.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/080/main.m3u8"
         },
         {
           "number": 81,
           "name": "سورة التكوير",
-          "audio": "https://example.com/mishary/081.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/081/main.m3u8"
         },
         {
           "number": 82,
           "name": "سورة الانفطار",
-          "audio": "https://example.com/mishary/082.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/082/main.m3u8"
         },
         {
           "number": 83,
           "name": "سورة المطففين",
-          "audio": "https://example.com/mishary/083.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/083/main.m3u8"
         },
         {
           "number": 84,
           "name": "سورة الانشقاق",
-          "audio": "https://example.com/mishary/084.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/084/main.m3u8"
         },
         {
           "number": 85,
           "name": "سورة البروج",
-          "audio": "https://example.com/mishary/085.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/085/main.m3u8"
         },
         {
           "number": 86,
           "name": "سورة الطارق",
-          "audio": "https://example.com/mishary/086.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/086/main.m3u8"
         },
         {
           "number": 87,
           "name": "سورة الأعلى",
-          "audio": "https://example.com/mishary/087.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/087/main.m3u8"
         },
         {
           "number": 88,
           "name": "سورة الغاشية",
-          "audio": "https://example.com/mishary/088.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/088/main.m3u8"
         },
         {
           "number": 89,
           "name": "سورة الفجر",
-          "audio": "https://example.com/mishary/089.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/089/main.m3u8"
         },
         {
           "number": 90,
           "name": "سورة البلد",
-          "audio": "https://example.com/mishary/090.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/090/main.m3u8"
         },
         {
           "number": 91,
           "name": "سورة الشمس",
-          "audio": "https://example.com/mishary/091.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/091/main.m3u8"
         },
         {
           "number": 92,
           "name": "سورة الليل",
-          "audio": "https://example.com/mishary/092.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/092/main.m3u8"
         },
         {
           "number": 93,
           "name": "سورة الضحى",
-          "audio": "https://example.com/mishary/093.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/093/main.m3u8"
         },
         {
           "number": 94,
           "name": "سورة الشرح",
-          "audio": "https://example.com/mishary/094.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/094/main.m3u8"
         },
         {
           "number": 95,
           "name": "سورة التين",
-          "audio": "https://example.com/mishary/095.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/095/main.m3u8"
         },
         {
           "number": 96,
           "name": "سورة العلق",
-          "audio": "https://example.com/mishary/096.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/096/main.m3u8"
         },
         {
           "number": 97,
           "name": "سورة القدر",
-          "audio": "https://example.com/mishary/097.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/097/main.m3u8"
         },
         {
           "number": 98,
           "name": "سورة البينة",
-          "audio": "https://example.com/mishary/098.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/098/main.m3u8"
         },
         {
           "number": 99,
           "name": "سورة الزلزلة",
-          "audio": "https://example.com/mishary/099.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/099/main.m3u8"
         },
         {
           "number": 100,
           "name": "سورة العاديات",
-          "audio": "https://example.com/mishary/100.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/100/main.m3u8"
         },
         {
           "number": 101,
           "name": "سورة القارعة",
-          "audio": "https://example.com/mishary/101.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/101/main.m3u8"
         },
         {
           "number": 102,
           "name": "سورة التكاثر",
-          "audio": "https://example.com/mishary/102.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/102/main.m3u8"
         },
         {
           "number": 103,
           "name": "سورة العصر",
-          "audio": "https://example.com/mishary/103.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/103/main.m3u8"
         },
         {
           "number": 104,
           "name": "سورة الهمزة",
-          "audio": "https://example.com/mishary/104.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/104/main.m3u8"
         },
         {
           "number": 105,
           "name": "سورة الفيل",
-          "audio": "https://example.com/mishary/105.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/105/main.m3u8"
         },
         {
           "number": 106,
           "name": "سورة قريش",
-          "audio": "https://example.com/mishary/106.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/106/main.m3u8"
         },
         {
           "number": 107,
           "name": "سورة الماعون",
-          "audio": "https://example.com/mishary/107.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/107/main.m3u8"
         },
         {
           "number": 108,
           "name": "سورة الكوثر",
-          "audio": "https://example.com/mishary/108.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/108/main.m3u8"
         },
         {
           "number": 109,
           "name": "سورة الكافرون",
-          "audio": "https://example.com/mishary/109.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/109/main.m3u8"
         },
         {
           "number": 110,
           "name": "سورة النصر",
-          "audio": "https://example.com/mishary/110.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/110/main.m3u8"
         },
         {
           "number": 111,
           "name": "سورة المسد",
-          "audio": "https://example.com/mishary/111.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/111/main.m3u8"
         },
         {
           "number": 112,
           "name": "سورة الإخلاص",
-          "audio": "https://example.com/mishary/112.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/112/main.m3u8"
         },
         {
           "number": 113,
           "name": "سورة الفلق",
-          "audio": "https://example.com/mishary/113.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/113/main.m3u8"
         },
         {
           "number": 114,
           "name": "سورة الناس",
-          "audio": "https://example.com/mishary/114.mp3"
-        }
-      ]
-    },
-	{
-      "name": "مشاری راشد العفاسی",
-      "surahs": [
-        {
-          "number": 1,
-          "name": "سورة الفاتحة",
-          "audio": "https://example.com/mishary/001.mp3"
-        },
-        {
-          "number": 2,
-          "name": "سورة البقرة",
-          "audio": "https://example.com/mishary/002.mp3"
-        },
-        {
-          "number": 3,
-          "name": "سورة آل عمران",
-          "audio": "https://example.com/mishary/003.mp3"
-        },
-        {
-          "number": 4,
-          "name": "سورة النساء",
-          "audio": "https://example.com/mishary/004.mp3"
-        },
-        {
-          "number": 5,
-          "name": "سورة المائدة",
-          "audio": "https://example.com/mishary/005.mp3"
-        },
-        {
-          "number": 6,
-          "name": "سورة الأنعام",
-          "audio": "https://example.com/mishary/006.mp3"
-        },
-        {
-          "number": 7,
-          "name": "سورة الأعراف",
-          "audio": "https://example.com/mishary/007.mp3"
-        },
-        {
-          "number": 8,
-          "name": "سورة الأنفال",
-          "audio": "https://example.com/mishary/008.mp3"
-        },
-        {
-          "number": 9,
-          "name": "سورة التوبة",
-          "audio": "https://example.com/mishary/009.mp3"
-        },
-        {
-          "number": 10,
-          "name": "سورة يونس",
-          "audio": "https://example.com/mishary/010.mp3"
-        },
-        {
-          "number": 11,
-          "name": "سورة هود",
-          "audio": "https://example.com/mishary/011.mp3"
-        },
-        {
-          "number": 12,
-          "name": "سورة يوسف",
-          "audio": "https://example.com/mishary/012.mp3"
-        },
-        {
-          "number": 13,
-          "name": "سورة الرعد",
-          "audio": "https://example.com/mishary/013.mp3"
-        },
-        {
-          "number": 14,
-          "name": "سورة إبراهيم",
-          "audio": "https://example.com/mishary/014.mp3"
-        },
-        {
-          "number": 15,
-          "name": "سورة الحجر",
-          "audio": "https://example.com/mishary/015.mp3"
-        },
-        {
-          "number": 16,
-          "name": "سورة النحل",
-          "audio": "https://example.com/mishary/016.mp3"
-        },
-        {
-          "number": 17,
-          "name": "سورة الإسراء",
-          "audio": "https://example.com/mishary/017.mp3"
-        },
-        {
-          "number": 18,
-          "name": "سورة الكهف",
-          "audio": "https://example.com/mishary/018.mp3"
-        },
-        {
-          "number": 19,
-          "name": "سورة مريم",
-          "audio": "https://example.com/mishary/019.mp3"
-        },
-        {
-          "number": 20,
-          "name": "سورة طه",
-          "audio": "https://example.com/mishary/020.mp3"
-        },
-        {
-          "number": 21,
-          "name": "سورة الأنبياء",
-          "audio": "https://example.com/mishary/021.mp3"
-        },
-        {
-          "number": 22,
-          "name": "سورة الحج",
-          "audio": "https://example.com/mishary/022.mp3"
-        },
-        {
-          "number": 23,
-          "name": "سورة المؤمنون",
-          "audio": "https://example.com/mishary/023.mp3"
-        },
-        {
-          "number": 24,
-          "name": "سورة النور",
-          "audio": "https://example.com/mishary/024.mp3"
-        },
-        {
-          "number": 25,
-          "name": "سورة الفرقان",
-          "audio": "https://example.com/mishary/025.mp3"
-        },
-        {
-          "number": 26,
-          "name": "سورة الشعراء",
-          "audio": "https://example.com/mishary/026.mp3"
-        },
-        {
-          "number": 27,
-          "name": "سورة النمل",
-          "audio": "https://example.com/mishary/027.mp3"
-        },
-        {
-          "number": 28,
-          "name": "سورة القصص",
-          "audio": "https://example.com/mishary/028.mp3"
-        },
-        {
-          "number": 29,
-          "name": "سورة العنكبوت",
-          "audio": "https://example.com/mishary/029.mp3"
-        },
-        {
-          "number": 30,
-          "name": "سورة الروم",
-          "audio": "https://example.com/mishary/030.mp3"
-        },
-        {
-          "number": 31,
-          "name": "سورة لقمان",
-          "audio": "https://example.com/mishary/031.mp3"
-        },
-        {
-          "number": 32,
-          "name": "سورة السجدة",
-          "audio": "https://example.com/mishary/032.mp3"
-        },
-        {
-          "number": 33,
-          "name": "سورة الأحزاب",
-          "audio": "https://example.com/mishary/033.mp3"
-        },
-        {
-          "number": 34,
-          "name": "سورة سبإ",
-          "audio": "https://example.com/mishary/034.mp3"
-        },
-        {
-          "number": 35,
-          "name": "سورة فاطر",
-          "audio": "https://example.com/mishary/035.mp3"
-        },
-        {
-          "number": 36,
-          "name": "سورة يس",
-          "audio": "https://example.com/mishary/036.mp3"
-        },
-        {
-          "number": 37,
-          "name": "سورة الصافات",
-          "audio": "https://example.com/mishary/037.mp3"
-        },
-        {
-          "number": 38,
-          "name": "سورة ص",
-          "audio": "https://example.com/mishary/038.mp3"
-        },
-        {
-          "number": 39,
-          "name": "سورة الزمر",
-          "audio": "https://example.com/mishary/039.mp3"
-        },
-        {
-          "number": 40,
-          "name": "سورة غافر",
-          "audio": "https://example.com/mishary/040.mp3"
-        },
-        {
-          "number": 41,
-          "name": "سورة فصلت",
-          "audio": "https://example.com/mishary/041.mp3"
-        },
-        {
-          "number": 42,
-          "name": "سورة الشورى",
-          "audio": "https://example.com/mishary/042.mp3"
-        },
-        {
-          "number": 43,
-          "name": "سورة الزخرف",
-          "audio": "https://example.com/mishary/043.mp3"
-        },
-        {
-          "number": 44,
-          "name": "سورة الدخان",
-          "audio": "https://example.com/mishary/044.mp3"
-        },
-        {
-          "number": 45,
-          "name": "سورة الجاثية",
-          "audio": "https://example.com/mishary/045.mp3"
-        },
-        {
-          "number": 46,
-          "name": "سورة الأحقاف",
-          "audio": "https://example.com/mishary/046.mp3"
-        },
-        {
-          "number": 47,
-          "name": "سورة محمد",
-          "audio": "https://example.com/mishary/047.mp3"
-        },
-        {
-          "number": 48,
-          "name": "سورة الفتح",
-          "audio": "https://example.com/mishary/048.mp3"
-        },
-        {
-          "number": 49,
-          "name": "سورة الحجرات",
-          "audio": "https://example.com/mishary/049.mp3"
-        },
-        {
-          "number": 50,
-          "name": "سورة ق",
-          "audio": "https://example.com/mishary/050.mp3"
-        },
-        {
-          "number": 51,
-          "name": "سورة الذاريات",
-          "audio": "https://example.com/mishary/051.mp3"
-        },
-        {
-          "number": 52,
-          "name": "سورة الطور",
-          "audio": "https://example.com/mishary/052.mp3"
-        },
-        {
-          "number": 53,
-          "name": "سورة النجم",
-          "audio": "https://example.com/mishary/053.mp3"
-        },
-        {
-          "number": 54,
-          "name": "سورة القمر",
-          "audio": "https://example.com/mishary/054.mp3"
-        },
-        {
-          "number": 55,
-          "name": "سورة الرحمن",
-          "audio": "https://example.com/mishary/055.mp3"
-        },
-        {
-          "number": 56,
-          "name": "سورة الواقعة",
-          "audio": "https://example.com/mishary/056.mp3"
-        },
-        {
-          "number": 57,
-          "name": "سورة الحديد",
-          "audio": "https://example.com/mishary/057.mp3"
-        },
-        {
-          "number": 58,
-          "name": "سورة المجادلة",
-          "audio": "https://example.com/mishary/058.mp3"
-        },
-        {
-          "number": 59,
-          "name": "سورة الحشر",
-          "audio": "https://example.com/mishary/059.mp3"
-        },
-        {
-          "number": 60,
-          "name": "سورة الممتحنة",
-          "audio": "https://example.com/mishary/060.mp3"
-        },
-        {
-          "number": 61,
-          "name": "سورة الصف",
-          "audio": "https://example.com/mishary/061.mp3"
-        },
-        {
-          "number": 62,
-          "name": "سورة الجمعة",
-          "audio": "https://example.com/mishary/062.mp3"
-        },
-        {
-          "number": 63,
-          "name": "سورة المنافقون",
-          "audio": "https://example.com/mishary/063.mp3"
-        },
-        {
-          "number": 64,
-          "name": "سورة التغابن",
-          "audio": "https://example.com/mishary/064.mp3"
-        },
-        {
-          "number": 65,
-          "name": "سورة الطلاق",
-          "audio": "https://example.com/mishary/065.mp3"
-        },
-        {
-          "number": 66,
-          "name": "سورة التحريم",
-          "audio": "https://example.com/mishary/066.mp3"
-        },
-        {
-          "number": 67,
-          "name": "سورة الملك",
-          "audio": "https://example.com/mishary/067.mp3"
-        },
-        {
-          "number": 68,
-          "name": "سورة القلم",
-          "audio": "https://example.com/mishary/068.mp3"
-        },
-        {
-          "number": 69,
-          "name": "سورة الحاقة",
-          "audio": "https://example.com/mishary/069.mp3"
-        },
-        {
-          "number": 70,
-          "name": "سورة المعارج",
-          "audio": "https://example.com/mishary/070.mp3"
-        },
-        {
-          "number": 71,
-          "name": "سورة نوح",
-          "audio": "https://example.com/mishary/071.mp3"
-        },
-        {
-          "number": 72,
-          "name": "سورة الجن",
-          "audio": "https://example.com/mishary/072.mp3"
-        },
-        {
-          "number": 73,
-          "name": "سورة المزمل",
-          "audio": "https://example.com/mishary/073.mp3"
-        },
-        {
-          "number": 74,
-          "name": "سورة المدثر",
-          "audio": "https://example.com/mishary/074.mp3"
-        },
-        {
-          "number": 75,
-          "name": "سورة القيامة",
-          "audio": "https://example.com/mishary/075.mp3"
-        },
-        {
-          "number": 76,
-          "name": "سورة الإنسان",
-          "audio": "https://example.com/mishary/076.mp3"
-        },
-        {
-          "number": 77,
-          "name": "سورة المرسلات",
-          "audio": "https://example.com/mishary/077.mp3"
-        },
-        {
-          "number": 78,
-          "name": "سورة النبأ",
-          "audio": "https://example.com/mishary/078.mp3"
-        },
-        {
-          "number": 79,
-          "name": "سورة النازعات",
-          "audio": "https://example.com/mishary/079.mp3"
-        },
-        {
-          "number": 80,
-          "name": "سورة عبس",
-          "audio": "https://example.com/mishary/080.mp3"
-        },
-        {
-          "number": 81,
-          "name": "سورة التكوير",
-          "audio": "https://example.com/mishary/081.mp3"
-        },
-        {
-          "number": 82,
-          "name": "سورة الانفطار",
-          "audio": "https://example.com/mishary/082.mp3"
-        },
-        {
-          "number": 83,
-          "name": "سورة المطففين",
-          "audio": "https://example.com/mishary/083.mp3"
-        },
-        {
-          "number": 84,
-          "name": "سورة الانشقاق",
-          "audio": "https://example.com/mishary/084.mp3"
-        },
-        {
-          "number": 85,
-          "name": "سورة البروج",
-          "audio": "https://example.com/mishary/085.mp3"
-        },
-        {
-          "number": 86,
-          "name": "سورة الطارق",
-          "audio": "https://example.com/mishary/086.mp3"
-        },
-        {
-          "number": 87,
-          "name": "سورة الأعلى",
-          "audio": "https://example.com/mishary/087.mp3"
-        },
-        {
-          "number": 88,
-          "name": "سورة الغاشية",
-          "audio": "https://example.com/mishary/088.mp3"
-        },
-        {
-          "number": 89,
-          "name": "سورة الفجر",
-          "audio": "https://example.com/mishary/089.mp3"
-        },
-        {
-          "number": 90,
-          "name": "سورة البلد",
-          "audio": "https://example.com/mishary/090.mp3"
-        },
-        {
-          "number": 91,
-          "name": "سورة الشمس",
-          "audio": "https://example.com/mishary/091.mp3"
-        },
-        {
-          "number": 92,
-          "name": "سورة الليل",
-          "audio": "https://example.com/mishary/092.mp3"
-        },
-        {
-          "number": 93,
-          "name": "سورة الضحى",
-          "audio": "https://example.com/mishary/093.mp3"
-        },
-        {
-          "number": 94,
-          "name": "سورة الشرح",
-          "audio": "https://example.com/mishary/094.mp3"
-        },
-        {
-          "number": 95,
-          "name": "سورة التين",
-          "audio": "https://example.com/mishary/095.mp3"
-        },
-        {
-          "number": 96,
-          "name": "سورة العلق",
-          "audio": "https://example.com/mishary/096.mp3"
-        },
-        {
-          "number": 97,
-          "name": "سورة القدر",
-          "audio": "https://example.com/mishary/097.mp3"
-        },
-        {
-          "number": 98,
-          "name": "سورة البينة",
-          "audio": "https://example.com/mishary/098.mp3"
-        },
-        {
-          "number": 99,
-          "name": "سورة الزلزلة",
-          "audio": "https://example.com/mishary/099.mp3"
-        },
-        {
-          "number": 100,
-          "name": "سورة العاديات",
-          "audio": "https://example.com/mishary/100.mp3"
-        },
-        {
-          "number": 101,
-          "name": "سورة القارعة",
-          "audio": "https://example.com/mishary/101.mp3"
-        },
-        {
-          "number": 102,
-          "name": "سورة التكاثر",
-          "audio": "https://example.com/mishary/102.mp3"
-        },
-        {
-          "number": 103,
-          "name": "سورة العصر",
-          "audio": "https://example.com/mishary/103.mp3"
-        },
-        {
-          "number": 104,
-          "name": "سورة الهمزة",
-          "audio": "https://example.com/mishary/104.mp3"
-        },
-        {
-          "number": 105,
-          "name": "سورة الفيل",
-          "audio": "https://example.com/mishary/105.mp3"
-        },
-        {
-          "number": 106,
-          "name": "سورة قريش",
-          "audio": "https://example.com/mishary/106.mp3"
-        },
-        {
-          "number": 107,
-          "name": "سورة الماعون",
-          "audio": "https://example.com/mishary/107.mp3"
-        },
-        {
-          "number": 108,
-          "name": "سورة الكوثر",
-          "audio": "https://example.com/mishary/108.mp3"
-        },
-        {
-          "number": 109,
-          "name": "سورة الكافرون",
-          "audio": "https://example.com/mishary/109.mp3"
-        },
-        {
-          "number": 110,
-          "name": "سورة النصر",
-          "audio": "https://example.com/mishary/110.mp3"
-        },
-        {
-          "number": 111,
-          "name": "سورة المسد",
-          "audio": "https://example.com/mishary/111.mp3"
-        },
-        {
-          "number": 112,
-          "name": "سورة الإخلاص",
-          "audio": "https://example.com/mishary/112.mp3"
-        },
-        {
-          "number": 113,
-          "name": "سورة الفلق",
-          "audio": "https://example.com/mishary/113.mp3"
-        },
-        {
-          "number": 114,
-          "name": "سورة الناس",
-          "audio": "https://example.com/mishary/114.mp3"
-        }
-      ]
-    },
-	{
-      "name": "مشاری راشد العفاسی",
-      "surahs": [
-        {
-          "number": 1,
-          "name": "سورة الفاتحة",
-          "audio": "https://example.com/mishary/001.mp3"
-        },
-        {
-          "number": 2,
-          "name": "سورة البقرة",
-          "audio": "https://example.com/mishary/002.mp3"
-        },
-        {
-          "number": 3,
-          "name": "سورة آل عمران",
-          "audio": "https://example.com/mishary/003.mp3"
-        },
-        {
-          "number": 4,
-          "name": "سورة النساء",
-          "audio": "https://example.com/mishary/004.mp3"
-        },
-        {
-          "number": 5,
-          "name": "سورة المائدة",
-          "audio": "https://example.com/mishary/005.mp3"
-        },
-        {
-          "number": 6,
-          "name": "سورة الأنعام",
-          "audio": "https://example.com/mishary/006.mp3"
-        },
-        {
-          "number": 7,
-          "name": "سورة الأعراف",
-          "audio": "https://example.com/mishary/007.mp3"
-        },
-        {
-          "number": 8,
-          "name": "سورة الأنفال",
-          "audio": "https://example.com/mishary/008.mp3"
-        },
-        {
-          "number": 9,
-          "name": "سورة التوبة",
-          "audio": "https://example.com/mishary/009.mp3"
-        },
-        {
-          "number": 10,
-          "name": "سورة يونس",
-          "audio": "https://example.com/mishary/010.mp3"
-        },
-        {
-          "number": 11,
-          "name": "سورة هود",
-          "audio": "https://example.com/mishary/011.mp3"
-        },
-        {
-          "number": 12,
-          "name": "سورة يوسف",
-          "audio": "https://example.com/mishary/012.mp3"
-        },
-        {
-          "number": 13,
-          "name": "سورة الرعد",
-          "audio": "https://example.com/mishary/013.mp3"
-        },
-        {
-          "number": 14,
-          "name": "سورة إبراهيم",
-          "audio": "https://example.com/mishary/014.mp3"
-        },
-        {
-          "number": 15,
-          "name": "سورة الحجر",
-          "audio": "https://example.com/mishary/015.mp3"
-        },
-        {
-          "number": 16,
-          "name": "سورة النحل",
-          "audio": "https://example.com/mishary/016.mp3"
-        },
-        {
-          "number": 17,
-          "name": "سورة الإسراء",
-          "audio": "https://example.com/mishary/017.mp3"
-        },
-        {
-          "number": 18,
-          "name": "سورة الكهف",
-          "audio": "https://example.com/mishary/018.mp3"
-        },
-        {
-          "number": 19,
-          "name": "سورة مريم",
-          "audio": "https://example.com/mishary/019.mp3"
-        },
-        {
-          "number": 20,
-          "name": "سورة طه",
-          "audio": "https://example.com/mishary/020.mp3"
-        },
-        {
-          "number": 21,
-          "name": "سورة الأنبياء",
-          "audio": "https://example.com/mishary/021.mp3"
-        },
-        {
-          "number": 22,
-          "name": "سورة الحج",
-          "audio": "https://example.com/mishary/022.mp3"
-        },
-        {
-          "number": 23,
-          "name": "سورة المؤمنون",
-          "audio": "https://example.com/mishary/023.mp3"
-        },
-        {
-          "number": 24,
-          "name": "سورة النور",
-          "audio": "https://example.com/mishary/024.mp3"
-        },
-        {
-          "number": 25,
-          "name": "سورة الفرقان",
-          "audio": "https://example.com/mishary/025.mp3"
-        },
-        {
-          "number": 26,
-          "name": "سورة الشعراء",
-          "audio": "https://example.com/mishary/026.mp3"
-        },
-        {
-          "number": 27,
-          "name": "سورة النمل",
-          "audio": "https://example.com/mishary/027.mp3"
-        },
-        {
-          "number": 28,
-          "name": "سورة القصص",
-          "audio": "https://example.com/mishary/028.mp3"
-        },
-        {
-          "number": 29,
-          "name": "سورة العنكبوت",
-          "audio": "https://example.com/mishary/029.mp3"
-        },
-        {
-          "number": 30,
-          "name": "سورة الروم",
-          "audio": "https://example.com/mishary/030.mp3"
-        },
-        {
-          "number": 31,
-          "name": "سورة لقمان",
-          "audio": "https://example.com/mishary/031.mp3"
-        },
-        {
-          "number": 32,
-          "name": "سورة السجدة",
-          "audio": "https://example.com/mishary/032.mp3"
-        },
-        {
-          "number": 33,
-          "name": "سورة الأحزاب",
-          "audio": "https://example.com/mishary/033.mp3"
-        },
-        {
-          "number": 34,
-          "name": "سورة سبإ",
-          "audio": "https://example.com/mishary/034.mp3"
-        },
-        {
-          "number": 35,
-          "name": "سورة فاطر",
-          "audio": "https://example.com/mishary/035.mp3"
-        },
-        {
-          "number": 36,
-          "name": "سورة يس",
-          "audio": "https://example.com/mishary/036.mp3"
-        },
-        {
-          "number": 37,
-          "name": "سورة الصافات",
-          "audio": "https://example.com/mishary/037.mp3"
-        },
-        {
-          "number": 38,
-          "name": "سورة ص",
-          "audio": "https://example.com/mishary/038.mp3"
-        },
-        {
-          "number": 39,
-          "name": "سورة الزمر",
-          "audio": "https://example.com/mishary/039.mp3"
-        },
-        {
-          "number": 40,
-          "name": "سورة غافر",
-          "audio": "https://example.com/mishary/040.mp3"
-        },
-        {
-          "number": 41,
-          "name": "سورة فصلت",
-          "audio": "https://example.com/mishary/041.mp3"
-        },
-        {
-          "number": 42,
-          "name": "سورة الشورى",
-          "audio": "https://example.com/mishary/042.mp3"
-        },
-        {
-          "number": 43,
-          "name": "سورة الزخرف",
-          "audio": "https://example.com/mishary/043.mp3"
-        },
-        {
-          "number": 44,
-          "name": "سورة الدخان",
-          "audio": "https://example.com/mishary/044.mp3"
-        },
-        {
-          "number": 45,
-          "name": "سورة الجاثية",
-          "audio": "https://example.com/mishary/045.mp3"
-        },
-        {
-          "number": 46,
-          "name": "سورة الأحقاف",
-          "audio": "https://example.com/mishary/046.mp3"
-        },
-        {
-          "number": 47,
-          "name": "سورة محمد",
-          "audio": "https://example.com/mishary/047.mp3"
-        },
-        {
-          "number": 48,
-          "name": "سورة الفتح",
-          "audio": "https://example.com/mishary/048.mp3"
-        },
-        {
-          "number": 49,
-          "name": "سورة الحجرات",
-          "audio": "https://example.com/mishary/049.mp3"
-        },
-        {
-          "number": 50,
-          "name": "سورة ق",
-          "audio": "https://example.com/mishary/050.mp3"
-        },
-        {
-          "number": 51,
-          "name": "سورة الذاريات",
-          "audio": "https://example.com/mishary/051.mp3"
-        },
-        {
-          "number": 52,
-          "name": "سورة الطور",
-          "audio": "https://example.com/mishary/052.mp3"
-        },
-        {
-          "number": 53,
-          "name": "سورة النجم",
-          "audio": "https://example.com/mishary/053.mp3"
-        },
-        {
-          "number": 54,
-          "name": "سورة القمر",
-          "audio": "https://example.com/mishary/054.mp3"
-        },
-        {
-          "number": 55,
-          "name": "سورة الرحمن",
-          "audio": "https://example.com/mishary/055.mp3"
-        },
-        {
-          "number": 56,
-          "name": "سورة الواقعة",
-          "audio": "https://example.com/mishary/056.mp3"
-        },
-        {
-          "number": 57,
-          "name": "سورة الحديد",
-          "audio": "https://example.com/mishary/057.mp3"
-        },
-        {
-          "number": 58,
-          "name": "سورة المجادلة",
-          "audio": "https://example.com/mishary/058.mp3"
-        },
-        {
-          "number": 59,
-          "name": "سورة الحشر",
-          "audio": "https://example.com/mishary/059.mp3"
-        },
-        {
-          "number": 60,
-          "name": "سورة الممتحنة",
-          "audio": "https://example.com/mishary/060.mp3"
-        },
-        {
-          "number": 61,
-          "name": "سورة الصف",
-          "audio": "https://example.com/mishary/061.mp3"
-        },
-        {
-          "number": 62,
-          "name": "سورة الجمعة",
-          "audio": "https://example.com/mishary/062.mp3"
-        },
-        {
-          "number": 63,
-          "name": "سورة المنافقون",
-          "audio": "https://example.com/mishary/063.mp3"
-        },
-        {
-          "number": 64,
-          "name": "سورة التغابن",
-          "audio": "https://example.com/mishary/064.mp3"
-        },
-        {
-          "number": 65,
-          "name": "سورة الطلاق",
-          "audio": "https://example.com/mishary/065.mp3"
-        },
-        {
-          "number": 66,
-          "name": "سورة التحريم",
-          "audio": "https://example.com/mishary/066.mp3"
-        },
-        {
-          "number": 67,
-          "name": "سورة الملك",
-          "audio": "https://example.com/mishary/067.mp3"
-        },
-        {
-          "number": 68,
-          "name": "سورة القلم",
-          "audio": "https://example.com/mishary/068.mp3"
-        },
-        {
-          "number": 69,
-          "name": "سورة الحاقة",
-          "audio": "https://example.com/mishary/069.mp3"
-        },
-        {
-          "number": 70,
-          "name": "سورة المعارج",
-          "audio": "https://example.com/mishary/070.mp3"
-        },
-        {
-          "number": 71,
-          "name": "سورة نوح",
-          "audio": "https://example.com/mishary/071.mp3"
-        },
-        {
-          "number": 72,
-          "name": "سورة الجن",
-          "audio": "https://example.com/mishary/072.mp3"
-        },
-        {
-          "number": 73,
-          "name": "سورة المزمل",
-          "audio": "https://example.com/mishary/073.mp3"
-        },
-        {
-          "number": 74,
-          "name": "سورة المدثر",
-          "audio": "https://example.com/mishary/074.mp3"
-        },
-        {
-          "number": 75,
-          "name": "سورة القيامة",
-          "audio": "https://example.com/mishary/075.mp3"
-        },
-        {
-          "number": 76,
-          "name": "سورة الإنسان",
-          "audio": "https://example.com/mishary/076.mp3"
-        },
-        {
-          "number": 77,
-          "name": "سورة المرسلات",
-          "audio": "https://example.com/mishary/077.mp3"
-        },
-        {
-          "number": 78,
-          "name": "سورة النبأ",
-          "audio": "https://example.com/mishary/078.mp3"
-        },
-        {
-          "number": 79,
-          "name": "سورة النازعات",
-          "audio": "https://example.com/mishary/079.mp3"
-        },
-        {
-          "number": 80,
-          "name": "سورة عبس",
-          "audio": "https://example.com/mishary/080.mp3"
-        },
-        {
-          "number": 81,
-          "name": "سورة التكوير",
-          "audio": "https://example.com/mishary/081.mp3"
-        },
-        {
-          "number": 82,
-          "name": "سورة الانفطار",
-          "audio": "https://example.com/mishary/082.mp3"
-        },
-        {
-          "number": 83,
-          "name": "سورة المطففين",
-          "audio": "https://example.com/mishary/083.mp3"
-        },
-        {
-          "number": 84,
-          "name": "سورة الانشقاق",
-          "audio": "https://example.com/mishary/084.mp3"
-        },
-        {
-          "number": 85,
-          "name": "سورة البروج",
-          "audio": "https://example.com/mishary/085.mp3"
-        },
-        {
-          "number": 86,
-          "name": "سورة الطارق",
-          "audio": "https://example.com/mishary/086.mp3"
-        },
-        {
-          "number": 87,
-          "name": "سورة الأعلى",
-          "audio": "https://example.com/mishary/087.mp3"
-        },
-        {
-          "number": 88,
-          "name": "سورة الغاشية",
-          "audio": "https://example.com/mishary/088.mp3"
-        },
-        {
-          "number": 89,
-          "name": "سورة الفجر",
-          "audio": "https://example.com/mishary/089.mp3"
-        },
-        {
-          "number": 90,
-          "name": "سورة البلد",
-          "audio": "https://example.com/mishary/090.mp3"
-        },
-        {
-          "number": 91,
-          "name": "سورة الشمس",
-          "audio": "https://example.com/mishary/091.mp3"
-        },
-        {
-          "number": 92,
-          "name": "سورة الليل",
-          "audio": "https://example.com/mishary/092.mp3"
-        },
-        {
-          "number": 93,
-          "name": "سورة الضحى",
-          "audio": "https://example.com/mishary/093.mp3"
-        },
-        {
-          "number": 94,
-          "name": "سورة الشرح",
-          "audio": "https://example.com/mishary/094.mp3"
-        },
-        {
-          "number": 95,
-          "name": "سورة التين",
-          "audio": "https://example.com/mishary/095.mp3"
-        },
-        {
-          "number": 96,
-          "name": "سورة العلق",
-          "audio": "https://example.com/mishary/096.mp3"
-        },
-        {
-          "number": 97,
-          "name": "سورة القدر",
-          "audio": "https://example.com/mishary/097.mp3"
-        },
-        {
-          "number": 98,
-          "name": "سورة البينة",
-          "audio": "https://example.com/mishary/098.mp3"
-        },
-        {
-          "number": 99,
-          "name": "سورة الزلزلة",
-          "audio": "https://example.com/mishary/099.mp3"
-        },
-        {
-          "number": 100,
-          "name": "سورة العاديات",
-          "audio": "https://example.com/mishary/100.mp3"
-        },
-        {
-          "number": 101,
-          "name": "سورة القارعة",
-          "audio": "https://example.com/mishary/101.mp3"
-        },
-        {
-          "number": 102,
-          "name": "سورة التكاثر",
-          "audio": "https://example.com/mishary/102.mp3"
-        },
-        {
-          "number": 103,
-          "name": "سورة العصر",
-          "audio": "https://example.com/mishary/103.mp3"
-        },
-        {
-          "number": 104,
-          "name": "سورة الهمزة",
-          "audio": "https://example.com/mishary/104.mp3"
-        },
-        {
-          "number": 105,
-          "name": "سورة الفيل",
-          "audio": "https://example.com/mishary/105.mp3"
-        },
-        {
-          "number": 106,
-          "name": "سورة قريش",
-          "audio": "https://example.com/mishary/106.mp3"
-        },
-        {
-          "number": 107,
-          "name": "سورة الماعون",
-          "audio": "https://example.com/mishary/107.mp3"
-        },
-        {
-          "number": 108,
-          "name": "سورة الكوثر",
-          "audio": "https://example.com/mishary/108.mp3"
-        },
-        {
-          "number": 109,
-          "name": "سورة الكافرون",
-          "audio": "https://example.com/mishary/109.mp3"
-        },
-        {
-          "number": 110,
-          "name": "سورة النصر",
-          "audio": "https://example.com/mishary/110.mp3"
-        },
-        {
-          "number": 111,
-          "name": "سورة المسد",
-          "audio": "https://example.com/mishary/111.mp3"
-        },
-        {
-          "number": 112,
-          "name": "سورة الإخلاص",
-          "audio": "https://example.com/mishary/112.mp3"
-        },
-        {
-          "number": 113,
-          "name": "سورة الفلق",
-          "audio": "https://example.com/mishary/113.mp3"
-        },
-        {
-          "number": 114,
-          "name": "سورة الناس",
-          "audio": "https://example.com/mishary/114.mp3"
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Abdullah_Awad_al_Juhani_hls/114/main.m3u8"
         }
       ]
     }
