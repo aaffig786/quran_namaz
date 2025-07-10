@@ -1,0 +1,579 @@
+{
+  "reciters": [
+    {
+      "name": "Single Reciter",
+      "surahs": [
+        {
+          "number": 1,
+          "name": "سورة الفاتحة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/001/main.m3u8"
+        },
+        {
+          "number": 2,
+          "name": "سورة البقرة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/002/main.m3u8"
+        },
+        {
+          "number": 3,
+          "name": "سورة آل عمران",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/003/main.m3u8"
+        },
+        {
+          "number": 4,
+          "name": "سورة النساء",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/004/main.m3u8"
+        },
+        {
+          "number": 5,
+          "name": "سورة المائدة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/005/main.m3u8"
+        },
+        {
+          "number": 6,
+          "name": "سورة الأنعام",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/006/main.m3u8"
+        },
+        {
+          "number": 7,
+          "name": "سورة الأعراف",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/007/main.m3u8"
+        },
+        {
+          "number": 8,
+          "name": "سورة الأنفال",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/008/main.m3u8"
+        },
+        {
+          "number": 9,
+          "name": "سورة التوبة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/009/main.m3u8"
+        },
+        {
+          "number": 10,
+          "name": "سورة يونس",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/010/main.m3u8"
+        },
+        {
+          "number": 11,
+          "name": "سورة هود",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/011/main.m3u8"
+        },
+        {
+          "number": 12,
+          "name": "سورة يوسف",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/012/main.m3u8"
+        },
+        {
+          "number": 13,
+          "name": "سورة الرعد",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/013/main.m3u8"
+        },
+        {
+          "number": 14,
+          "name": "سورة إبراهيم",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/014/main.m3u8"
+        },
+        {
+          "number": 15,
+          "name": "سورة الحجر",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/015/main.m3u8"
+        },
+        {
+          "number": 16,
+          "name": "سورة النحل",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/016/main.m3u8"
+        },
+        {
+          "number": 17,
+          "name": "سورة الإسراء",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/017/main.m3u8"
+        },
+        {
+          "number": 18,
+          "name": "سورة الكهف",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/018/main.m3u8"
+        },
+        {
+          "number": 19,
+          "name": "سورة مريم",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/019/main.m3u8"
+        },
+        {
+          "number": 20,
+          "name": "سورة طه",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/020/main.m3u8"
+        },
+        {
+          "number": 21,
+          "name": "سورة الأنبياء",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/021/main.m3u8"
+        },
+        {
+          "number": 22,
+          "name": "سورة الحج",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/022/main.m3u8"
+        },
+        {
+          "number": 23,
+          "name": "سورة المؤمنون",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/023/main.m3u8"
+        },
+        {
+          "number": 24,
+          "name": "سورة النور",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/024/main.m3u8"
+        },
+        {
+          "number": 25,
+          "name": "سورة الفرقان",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/025/main.m3u8"
+        },
+        {
+          "number": 26,
+          "name": "سورة الشعراء",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/026/main.m3u8"
+        },
+        {
+          "number": 27,
+          "name": "سورة النمل",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/027/main.m3u8"
+        },
+        {
+          "number": 28,
+          "name": "سورة القصص",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/028/main.m3u8"
+        },
+        {
+          "number": 29,
+          "name": "سورة العنكبوت",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/029/main.m3u8"
+        },
+        {
+          "number": 30,
+          "name": "سورة الروم",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/030/main.m3u8"
+        },
+        {
+          "number": 31,
+          "name": "سورة لقمان",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/031/main.m3u8"
+        },
+        {
+          "number": 32,
+          "name": "سورة السجدة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/032/main.m3u8"
+        },
+        {
+          "number": 33,
+          "name": "سورة الأحزاب",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/033/main.m3u8"
+        },
+        {
+          "number": 34,
+          "name": "سورة سبإ",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/034/main.m3u8"
+        },
+        {
+          "number": 35,
+          "name": "سورة فاطر",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/035/main.m3u8"
+        },
+        {
+          "number": 36,
+          "name": "سورة يس",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/036/main.m3u8"
+        },
+        {
+          "number": 37,
+          "name": "سورة الصافات",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/037/main.m3u8"
+        },
+        {
+          "number": 38,
+          "name": "سورة ص",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/038/main.m3u8"
+        },
+        {
+          "number": 39,
+          "name": "سورة الزمر",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/039/main.m3u8"
+        },
+        {
+          "number": 40,
+          "name": "سورة غافر",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/040/main.m3u8"
+        },
+        {
+          "number": 41,
+          "name": "سورة فصلت",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/041/main.m3u8"
+        },
+        {
+          "number": 42,
+          "name": "سورة الشورى",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/042/main.m3u8"
+        },
+        {
+          "number": 43,
+          "name": "سورة الزخرف",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/043/main.m3u8"
+        },
+        {
+          "number": 44,
+          "name": "سورة الدخان",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/044/main.m3u8"
+        },
+        {
+          "number": 45,
+          "name": "سورة الجاثية",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/045/main.m3u8"
+        },
+        {
+          "number": 46,
+          "name": "سورة الأحقاف",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/046/main.m3u8"
+        },
+        {
+          "number": 47,
+          "name": "سورة محمد",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/047/main.m3u8"
+        },
+        {
+          "number": 48,
+          "name": "سورة الفتح",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/048/main.m3u8"
+        },
+        {
+          "number": 49,
+          "name": "سورة الحجرات",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/049/main.m3u8"
+        },
+        {
+          "number": 50,
+          "name": "سورة ق",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/050/main.m3u8"
+        },
+        {
+          "number": 51,
+          "name": "سورة الذاريات",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/051/main.m3u8"
+        },
+        {
+          "number": 52,
+          "name": "سورة الطور",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/052/main.m3u8"
+        },
+        {
+          "number": 53,
+          "name": "سورة النجم",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/053/main.m3u8"
+        },
+        {
+          "number": 54,
+          "name": "سورة القمر",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/054/main.m3u8"
+        },
+        {
+          "number": 55,
+          "name": "سورة الرحمن",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/055/main.m3u8"
+        },
+        {
+          "number": 56,
+          "name": "سورة الواقعة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/056/main.m3u8"
+        },
+        {
+          "number": 57,
+          "name": "سورة الحديد",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/057/main.m3u8"
+        },
+        {
+          "number": 58,
+          "name": "سورة المجادلة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/058/main.m3u8"
+        },
+        {
+          "number": 59,
+          "name": "سورة الحشر",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/059/main.m3u8"
+        },
+        {
+          "number": 60,
+          "name": "سورة الممتحنة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/060/main.m3u8"
+        },
+        {
+          "number": 61,
+          "name": "سورة الصف",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/061/main.m3u8"
+        },
+        {
+          "number": 62,
+          "name": "سورة الجمعة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/062/main.m3u8"
+        },
+        {
+          "number": 63,
+          "name": "سورة المنافقون",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/063/main.m3u8"
+        },
+        {
+          "number": 64,
+          "name": "سورة التغابن",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/064/main.m3u8"
+        },
+        {
+          "number": 65,
+          "name": "سورة الطلاق",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/065/main.m3u8"
+        },
+        {
+          "number": 66,
+          "name": "سورة التحريم",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/066/main.m3u8"
+        },
+        {
+          "number": 67,
+          "name": "سورة الملك",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/067/main.m3u8"
+        },
+        {
+          "number": 68,
+          "name": "سورة القلم",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/068/main.m3u8"
+        },
+        {
+          "number": 69,
+          "name": "سورة الحاقة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/069/main.m3u8"
+        },
+        {
+          "number": 70,
+          "name": "سورة المعارج",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/070/main.m3u8"
+        },
+        {
+          "number": 71,
+          "name": "سورة نوح",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/071/main.m3u8"
+        },
+        {
+          "number": 72,
+          "name": "سورة الجن",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/072/main.m3u8"
+        },
+        {
+          "number": 73,
+          "name": "سورة المزمل",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/073/main.m3u8"
+        },
+        {
+          "number": 74,
+          "name": "سورة المدثر",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/074/main.m3u8"
+        },
+        {
+          "number": 75,
+          "name": "سورة القيامة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/075/main.m3u8"
+        },
+        {
+          "number": 76,
+          "name": "سورة الإنسان",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/076/main.m3u8"
+        },
+        {
+          "number": 77,
+          "name": "سورة المرسلات",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/077/main.m3u8"
+        },
+        {
+          "number": 78,
+          "name": "سورة النبأ",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/078/main.m3u8"
+        },
+        {
+          "number": 79,
+          "name": "سورة النازعات",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/079/main.m3u8"
+        },
+        {
+          "number": 80,
+          "name": "سورة عبس",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/080/main.m3u8"
+        },
+        {
+          "number": 81,
+          "name": "سورة التكوير",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/081/main.m3u8"
+        },
+        {
+          "number": 82,
+          "name": "سورة الانفطار",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/082/main.m3u8"
+        },
+        {
+          "number": 83,
+          "name": "سورة المطففين",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/083/main.m3u8"
+        },
+        {
+          "number": 84,
+          "name": "سورة الانشقاق",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/084/main.m3u8"
+        },
+        {
+          "number": 85,
+          "name": "سورة البروج",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/085/main.m3u8"
+        },
+        {
+          "number": 86,
+          "name": "سورة الطارق",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/086/main.m3u8"
+        },
+        {
+          "number": 87,
+          "name": "سورة الأعلى",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/087/main.m3u8"
+        },
+        {
+          "number": 88,
+          "name": "سورة الغاشية",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/088/main.m3u8"
+        },
+        {
+          "number": 89,
+          "name": "سورة الفجر",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/089/main.m3u8"
+        },
+        {
+          "number": 90,
+          "name": "سورة البلد",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/090/main.m3u8"
+        },
+        {
+          "number": 91,
+          "name": "سورة الشمس",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/091/main.m3u8"
+        },
+        {
+          "number": 92,
+          "name": "سورة الليل",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/092/main.m3u8"
+        },
+        {
+          "number": 93,
+          "name": "سورة الضحى",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/093/main.m3u8"
+        },
+        {
+          "number": 94,
+          "name": "سورة الشرح",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/094/main.m3u8"
+        },
+        {
+          "number": 95,
+          "name": "سورة التين",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/095/main.m3u8"
+        },
+        {
+          "number": 96,
+          "name": "سورة العلق",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/096/main.m3u8"
+        },
+        {
+          "number": 97,
+          "name": "سورة القدر",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/097/main.m3u8"
+        },
+        {
+          "number": 98,
+          "name": "سورة البينة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/098/main.m3u8"
+        },
+        {
+          "number": 99,
+          "name": "سورة الزلزلة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/099/main.m3u8"
+        },
+        {
+          "number": 100,
+          "name": "سورة العاديات",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/100/main.m3u8"
+        },
+        {
+          "number": 101,
+          "name": "سورة القارعة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/101/main.m3u8"
+        },
+        {
+          "number": 102,
+          "name": "سورة التكاثر",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/102/main.m3u8"
+        },
+        {
+          "number": 103,
+          "name": "سورة العصر",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/103/main.m3u8"
+        },
+        {
+          "number": 104,
+          "name": "سورة الهمزة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/104/main.m3u8"
+        },
+        {
+          "number": 105,
+          "name": "سورة الفيل",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/105/main.m3u8"
+        },
+        {
+          "number": 106,
+          "name": "سورة قريش",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/106/main.m3u8"
+        },
+        {
+          "number": 107,
+          "name": "سورة الماعون",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/107/main.m3u8"
+        },
+        {
+          "number": 108,
+          "name": "سورة الكوثر",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/108/main.m3u8"
+        },
+        {
+          "number": 109,
+          "name": "سورة الكافرون",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/109/main.m3u8"
+        },
+        {
+          "number": 110,
+          "name": "سورة النصر",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/110/main.m3u8"
+        },
+        {
+          "number": 111,
+          "name": "سورة المسد",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/111/main.m3u8"
+        },
+        {
+          "number": 112,
+          "name": "سورة الإخلاص",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/112/main.m3u8"
+        },
+        {
+          "number": 113,
+          "name": "سورة الفلق",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/113/main.m3u8"
+        },
+        {
+          "number": 114,
+          "name": "سورة الناس",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_translation_hls/114/main.m3u8"
+        }
+      ]
+    }
+  ]
+}
