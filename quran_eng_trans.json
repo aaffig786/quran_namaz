@@ -1,0 +1,579 @@
+{
+  "reciters": [
+    {
+      "name": "Recitation with English Translation",
+      "surahs": [
+        {
+          "number": 1,
+          "name": "Surah Al-Fatiha",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/001/main.m3u8"
+        },
+        {
+          "number": 2,
+          "name": "Surah Al-Baqarah",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/002/main.m3u8"
+        },
+        {
+          "number": 3,
+          "name": "Surah Aal-E-Imran",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/003/main.m3u8"
+        },
+        {
+          "number": 4,
+          "name": "Surah An-Nisa",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/004/main.m3u8"
+        },
+        {
+          "number": 5,
+          "name": "Surah Al-Maidah",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/005/main.m3u8"
+        },
+        {
+          "number": 6,
+          "name": "Surah Al-An'am",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/006/main.m3u8"
+        },
+        {
+          "number": 7,
+          "name": "Surah Al-A'raf",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/007/main.m3u8"
+        },
+        {
+          "number": 8,
+          "name": "Surah Al-Anfal",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/008/main.m3u8"
+        },
+        {
+          "number": 9,
+          "name": "Surah At-Tawbah",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/009/main.m3u8"
+        },
+        {
+          "number": 10,
+          "name": "Surah Yunus",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/010/main.m3u8"
+        },
+        {
+          "number": 11,
+          "name": "Surah Hud",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/011/main.m3u8"
+        },
+        {
+          "number": 12,
+          "name": "Surah Yusuf",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/012/main.m3u8"
+        },
+        {
+          "number": 13,
+          "name": "Surah Ar-Ra'd",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/013/main.m3u8"
+        },
+        {
+          "number": 14,
+          "name": "Surah Ibrahim",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/014/main.m3u8"
+        },
+        {
+          "number": 15,
+          "name": "Surah Al-Hijr",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/015/main.m3u8"
+        },
+        {
+          "number": 16,
+          "name": "Surah An-Nahl",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/016/main.m3u8"
+        },
+        {
+          "number": 17,
+          "name": "Surah Al-Isra",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/017/main.m3u8"
+        },
+        {
+          "number": 18,
+          "name": "Surah Al-Kahf",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/018/main.m3u8"
+        },
+        {
+          "number": 19,
+          "name": "Surah Maryam",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/019/main.m3u8"
+        },
+        {
+          "number": 20,
+          "name": "Surah Ta-Ha",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/020/main.m3u8"
+        },
+        {
+          "number": 21,
+          "name": "Surah Al-Anbiya",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/021/main.m3u8"
+        },
+        {
+          "number": 22,
+          "name": "Surah Al-Hajj",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/022/main.m3u8"
+        },
+        {
+          "number": 23,
+          "name": "Surah Al-Mu'minun",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/023/main.m3u8"
+        },
+        {
+          "number": 24,
+          "name": "Surah An-Nur",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/024/main.m3u8"
+        },
+        {
+          "number": 25,
+          "name": "Surah Al-Furqan",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/025/main.m3u8"
+        },
+        {
+          "number": 26,
+          "name": "Surah Ash-Shu'ara",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/026/main.m3u8"
+        },
+        {
+          "number": 27,
+          "name": "Surah An-Naml",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/027/main.m3u8"
+        },
+        {
+          "number": 28,
+          "name": "Surah Al-Qasas",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/028/main.m3u8"
+        },
+        {
+          "number": 29,
+          "name": "Surah Al-Ankabut",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/029/main.m3u8"
+        },
+        {
+          "number": 30,
+          "name": "Surah Ar-Rum",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/030/main.m3u8"
+        },
+        {
+          "number": 31,
+          "name": "Surah Luqman",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/031/main.m3u8"
+        },
+        {
+          "number": 32,
+          "name": "Surah As-Sajda",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/032/main.m3u8"
+        },
+        {
+          "number": 33,
+          "name": "Surah Al-Ahzab",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/033/main.m3u8"
+        },
+        {
+          "number": 34,
+          "name": "Surah Saba",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/034/main.m3u8"
+        },
+        {
+          "number": 35,
+          "name": "Surah Fatir",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/035/main.m3u8"
+        },
+        {
+          "number": 36,
+          "name": "Surah Ya-Sin",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/036/main.m3u8"
+        },
+        {
+          "number": 37,
+          "name": "Surah As-Saffat",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/037/main.m3u8"
+        },
+        {
+          "number": 38,
+          "name": "Surah Sad",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/038/main.m3u8"
+        },
+        {
+          "number": 39,
+          "name": "Surah Az-Zumar",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/039/main.m3u8"
+        },
+        {
+          "number": 40,
+          "name": "Surah Ghafir",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/040/main.m3u8"
+        },
+        {
+          "number": 41,
+          "name": "Surah Fussilat",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/041/main.m3u8"
+        },
+        {
+          "number": 42,
+          "name": "Surah Ash-Shura",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/042/main.m3u8"
+        },
+        {
+          "number": 43,
+          "name": "Surah Az-Zukhruf",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/043/main.m3u8"
+        },
+        {
+          "number": 44,
+          "name": "Surah Ad-Dukhan",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/044/main.m3u8"
+        },
+        {
+          "number": 45,
+          "name": "Surah Al-Jathiya",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/045/main.m3u8"
+        },
+        {
+          "number": 46,
+          "name": "Surah Al-Ahqaf",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/046/main.m3u8"
+        },
+        {
+          "number": 47,
+          "name": "Surah Muhammad",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/047/main.m3u8"
+        },
+        {
+          "number": 48,
+          "name": "Surah Al-Fath",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/048/main.m3u8"
+        },
+        {
+          "number": 49,
+          "name": "Surah Al-Hujurat",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/049/main.m3u8"
+        },
+        {
+          "number": 50,
+          "name": "Surah Qaf",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/050/main.m3u8"
+        },
+        {
+          "number": 51,
+          "name": "Surah Adh-Dhariyat",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/051/main.m3u8"
+        },
+        {
+          "number": 52,
+          "name": "Surah At-Tur",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/052/main.m3u8"
+        },
+        {
+          "number": 53,
+          "name": "Surah An-Najm",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/053/main.m3u8"
+        },
+        {
+          "number": 54,
+          "name": "Surah Al-Qamar",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/054/main.m3u8"
+        },
+        {
+          "number": 55,
+          "name": "Surah Ar-Rahman",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/055/main.m3u8"
+        },
+        {
+          "number": 56,
+          "name": "Surah Al-Waqi'a",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/056/main.m3u8"
+        },
+        {
+          "number": 57,
+          "name": "Surah Al-Hadid",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/057/main.m3u8"
+        },
+        {
+          "number": 58,
+          "name": "Surah Al-Mujadila",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/058/main.m3u8"
+        },
+        {
+          "number": 59,
+          "name": "Surah Al-Hashr",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/059/main.m3u8"
+        },
+        {
+          "number": 60,
+          "name": "Surah Al-Mumtahina",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/060/main.m3u8"
+        },
+        {
+          "number": 61,
+          "name": "Surah As-Saff",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/061/main.m3u8"
+        },
+        {
+          "number": 62,
+          "name": "Surah Al-Jumua",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/062/main.m3u8"
+        },
+        {
+          "number": 63,
+          "name": "Surah Al-Munafiqun",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/063/main.m3u8"
+        },
+        {
+          "number": 64,
+          "name": "Surah At-Taghabun",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/064/main.m3u8"
+        },
+        {
+          "number": 65,
+          "name": "Surah At-Talaq",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/065/main.m3u8"
+        },
+        {
+          "number": 66,
+          "name": "Surah At-Tahrim",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/066/main.m3u8"
+        },
+        {
+          "number": 67,
+          "name": "Surah Al-Mulk",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/067/main.m3u8"
+        },
+        {
+          "number": 68,
+          "name": "Surah Al-Qalam",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/068/main.m3u8"
+        },
+        {
+          "number": 69,
+          "name": "Surah Al-Haqqa",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/069/main.m3u8"
+        },
+        {
+          "number": 70,
+          "name": "Surah Al-Ma'arij",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/070/main.m3u8"
+        },
+        {
+          "number": 71,
+          "name": "Surah Nuh",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/071/main.m3u8"
+        },
+        {
+          "number": 72,
+          "name": "Surah Al-Jinn",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/072/main.m3u8"
+        },
+        {
+          "number": 73,
+          "name": "Surah Al-Muzzammil",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/073/main.m3u8"
+        },
+        {
+          "number": 74,
+          "name": "Surah Al-Muddaththir",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/074/main.m3u8"
+        },
+        {
+          "number": 75,
+          "name": "Surah Al-Qiyama",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/075/main.m3u8"
+        },
+        {
+          "number": 76,
+          "name": "Surah Al-Insan",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/076/main.m3u8"
+        },
+        {
+          "number": 77,
+          "name": "Surah Al-Mursalat",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/077/main.m3u8"
+        },
+        {
+          "number": 78,
+          "name": "Surah An-Naba",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/078/main.m3u8"
+        },
+        {
+          "number": 79,
+          "name": "Surah An-Nazi'at",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/079/main.m3u8"
+        },
+        {
+          "number": 80,
+          "name": "Surah Abasa",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/080/main.m3u8"
+        },
+        {
+          "number": 81,
+          "name": "Surah At-Takwir",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/081/main.m3u8"
+        },
+        {
+          "number": 82,
+          "name": "Surah Al-Infitar",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/082/main.m3u8"
+        },
+        {
+          "number": 83,
+          "name": "Surah Al-Mutaffifin",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/083/main.m3u8"
+        },
+        {
+          "number": 84,
+          "name": "Surah Al-Inshiqaq",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/084/main.m3u8"
+        },
+        {
+          "number": 85,
+          "name": "Surah Al-Buruj",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/085/main.m3u8"
+        },
+        {
+          "number": 86,
+          "name": "Surah At-Tariq",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/086/main.m3u8"
+        },
+        {
+          "number": 87,
+          "name": "Surah Al-A'la",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/087/main.m3u8"
+        },
+        {
+          "number": 88,
+          "name": "Surah Al-Ghashiya",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/088/main.m3u8"
+        },
+        {
+          "number": 89,
+          "name": "Surah Al-Fajr",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/089/main.m3u8"
+        },
+        {
+          "number": 90,
+          "name": "Surah Al-Balad",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/090/main.m3u8"
+        },
+        {
+          "number": 91,
+          "name": "Surah Ash-Shams",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/091/main.m3u8"
+        },
+        {
+          "number": 92,
+          "name": "Surah Al-Lail",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/092/main.m3u8"
+        },
+        {
+          "number": 93,
+          "name": "Surah Ad-Duhaa",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/093/main.m3u8"
+        },
+        {
+          "number": 94,
+          "name": "Surah Ash-Sharh",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/094/main.m3u8"
+        },
+        {
+          "number": 95,
+          "name": "Surah At-Tin",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/095/main.m3u8"
+        },
+        {
+          "number": 96,
+          "name": "Surah Al-Alaq",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/096/main.m3u8"
+        },
+        {
+          "number": 97,
+          "name": "Surah Al-Qadr",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/097/main.m3u8"
+        },
+        {
+          "number": 98,
+          "name": "Surah Al-Bayyina",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/098/main.m3u8"
+        },
+        {
+          "number": 99,
+          "name": "Surah Az-Zalzalah",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/099/main.m3u8"
+        },
+        {
+          "number": 100,
+          "name": "Surah Al-Adiyat",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/100/main.m3u8"
+        },
+        {
+          "number": 101,
+          "name": "Surah Al-Qari'a",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/101/main.m3u8"
+        },
+        {
+          "number": 102,
+          "name": "Surah At-Takathur",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/102/main.m3u8"
+        },
+        {
+          "number": 103,
+          "name": "Surah Al-Asr",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/103/main.m3u8"
+        },
+        {
+          "number": 104,
+          "name": "Surah Al-Humazah",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/104/main.m3u8"
+        },
+        {
+          "number": 105,
+          "name": "Surah Al-Fil",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/105/main.m3u8"
+        },
+        {
+          "number": 106,
+          "name": "Surah Quraish",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/106/main.m3u8"
+        },
+        {
+          "number": 107,
+          "name": "Surah Al-Ma'un",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/107/main.m3u8"
+        },
+        {
+          "number": 108,
+          "name": "Surah Al-Kawthar",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/108/main.m3u8"
+        },
+        {
+          "number": 109,
+          "name": "Surah Al-Kafirun",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/109/main.m3u8"
+        },
+        {
+          "number": 110,
+          "name": "Surah An-Nasr",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/110/main.m3u8"
+        },
+        {
+          "number": 111,
+          "name": "Surah Al-Masad",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/111/main.m3u8"
+        },
+        {
+          "number": 112,
+          "name": "Surah Al-Ikhlas",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/112/main.m3u8"
+        },
+        {
+          "number": 113,
+          "name": "Surah Al-Falaq",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/113/main.m3u8"
+        },
+        {
+          "number": 114,
+          "name": "Surah An-Nas",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/quran_trans_eng_hls/114/main.m3u8"
+        }
+      ]
+    }
+  ]
+}
