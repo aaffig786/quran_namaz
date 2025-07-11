@@ -1,6 +1,4031 @@
 {
   "reciters": [
     {
+      "name": "شیخ عبدالباسط عبدالصمد",
+      "surahs": [
+        {
+          "number": 1,
+          "name": "سورة الفاتحة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/001/main.m3u8"
+        },
+        {
+          "number": 2,
+          "name": "سورة البقرة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/002/main.m3u8"
+        },
+        {
+          "number": 3,
+          "name": "سورة آل عمران",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/003/main.m3u8"
+        },
+        {
+          "number": 4,
+          "name": "سورة النساء",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/004/main.m3u8"
+        },
+        {
+          "number": 5,
+          "name": "سورة المائدة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/005/main.m3u8"
+        },
+        {
+          "number": 6,
+          "name": "سورة الأنعام",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/006/main.m3u8"
+        },
+        {
+          "number": 7,
+          "name": "سورة الأعراف",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/007/main.m3u8"
+        },
+        {
+          "number": 8,
+          "name": "سورة الأنفال",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/008/main.m3u8"
+        },
+        {
+          "number": 9,
+          "name": "سورة التوبة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/009/main.m3u8"
+        },
+        {
+          "number": 10,
+          "name": "سورة يونس",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/010/main.m3u8"
+        },
+        {
+          "number": 11,
+          "name": "سورة هود",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/011/main.m3u8"
+        },
+        {
+          "number": 12,
+          "name": "سورة يوسف",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/012/main.m3u8"
+        },
+        {
+          "number": 13,
+          "name": "سورة الرعد",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/013/main.m3u8"
+        },
+        {
+          "number": 14,
+          "name": "سورة إبراهيم",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/014/main.m3u8"
+        },
+        {
+          "number": 15,
+          "name": "سورة الحجر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/015/main.m3u8"
+        },
+        {
+          "number": 16,
+          "name": "سورة النحل",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/016/main.m3u8"
+        },
+        {
+          "number": 17,
+          "name": "سورة الإسراء",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/017/main.m3u8"
+        },
+        {
+          "number": 18,
+          "name": "سورة الكهف",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/018/main.m3u8"
+        },
+        {
+          "number": 19,
+          "name": "سورة مريم",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/019/main.m3u8"
+        },
+        {
+          "number": 20,
+          "name": "سورة طه",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/020/main.m3u8"
+        },
+        {
+          "number": 21,
+          "name": "سورة الأنبياء",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/021/main.m3u8"
+        },
+        {
+          "number": 22,
+          "name": "سورة الحج",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/022/main.m3u8"
+        },
+        {
+          "number": 23,
+          "name": "سورة المؤمنون",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/023/main.m3u8"
+        },
+        {
+          "number": 24,
+          "name": "سورة النور",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/024/main.m3u8"
+        },
+        {
+          "number": 25,
+          "name": "سورة الفرقان",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/025/main.m3u8"
+        },
+        {
+          "number": 26,
+          "name": "سورة الشعراء",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/026/main.m3u8"
+        },
+        {
+          "number": 27,
+          "name": "سورة النمل",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/027/main.m3u8"
+        },
+        {
+          "number": 28,
+          "name": "سورة القصص",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/028/main.m3u8"
+        },
+        {
+          "number": 29,
+          "name": "سورة العنكبوت",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/029/main.m3u8"
+        },
+        {
+          "number": 30,
+          "name": "سورة الروم",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/030/main.m3u8"
+        },
+        {
+          "number": 31,
+          "name": "سورة لقمان",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/031/main.m3u8"
+        },
+        {
+          "number": 32,
+          "name": "سورة السجدة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/032/main.m3u8"
+        },
+        {
+          "number": 33,
+          "name": "سورة الأحزاب",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/033/main.m3u8"
+        },
+        {
+          "number": 34,
+          "name": "سورة سبإ",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/034/main.m3u8"
+        },
+        {
+          "number": 35,
+          "name": "سورة فاطر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/035/main.m3u8"
+        },
+        {
+          "number": 36,
+          "name": "سورة يس",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/036/main.m3u8"
+        },
+        {
+          "number": 37,
+          "name": "سورة الصافات",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/037/main.m3u8"
+        },
+        {
+          "number": 38,
+          "name": "سورة ص",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/038/main.m3u8"
+        },
+        {
+          "number": 39,
+          "name": "سورة الزمر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/039/main.m3u8"
+        },
+        {
+          "number": 40,
+          "name": "سورة غافر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/040/main.m3u8"
+        },
+        {
+          "number": 41,
+          "name": "سورة فصلت",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/041/main.m3u8"
+        },
+        {
+          "number": 42,
+          "name": "سورة الشورى",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/042/main.m3u8"
+        },
+        {
+          "number": 43,
+          "name": "سورة الزخرف",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/043/main.m3u8"
+        },
+        {
+          "number": 44,
+          "name": "سورة الدخان",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/044/main.m3u8"
+        },
+        {
+          "number": 45,
+          "name": "سورة الجاثية",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/045/main.m3u8"
+        },
+        {
+          "number": 46,
+          "name": "سورة الأحقاف",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/046/main.m3u8"
+        },
+        {
+          "number": 47,
+          "name": "سورة محمد",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/047/main.m3u8"
+        },
+        {
+          "number": 48,
+          "name": "سورة الفتح",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/048/main.m3u8"
+        },
+        {
+          "number": 49,
+          "name": "سورة الحجرات",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/049/main.m3u8"
+        },
+        {
+          "number": 50,
+          "name": "سورة ق",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/050/main.m3u8"
+        },
+        {
+          "number": 51,
+          "name": "سورة الذاريات",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/051/main.m3u8"
+        },
+        {
+          "number": 52,
+          "name": "سورة الطور",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/052/main.m3u8"
+        },
+        {
+          "number": 53,
+          "name": "سورة النجم",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/053/main.m3u8"
+        },
+        {
+          "number": 54,
+          "name": "سورة القمر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/054/main.m3u8"
+        },
+        {
+          "number": 55,
+          "name": "سورة الرحمن",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/055/main.m3u8"
+        },
+        {
+          "number": 56,
+          "name": "سورة الواقعة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/056/main.m3u8"
+        },
+        {
+          "number": 57,
+          "name": "سورة الحديد",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/057/main.m3u8"
+        },
+        {
+          "number": 58,
+          "name": "سورة المجادلة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/058/main.m3u8"
+        },
+        {
+          "number": 59,
+          "name": "سورة الحشر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/059/main.m3u8"
+        },
+        {
+          "number": 60,
+          "name": "سورة الممتحنة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/060/main.m3u8"
+        },
+        {
+          "number": 61,
+          "name": "سورة الصف",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/061/main.m3u8"
+        },
+        {
+          "number": 62,
+          "name": "سورة الجمعة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/062/main.m3u8"
+        },
+        {
+          "number": 63,
+          "name": "سورة المنافقون",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/063/main.m3u8"
+        },
+        {
+          "number": 64,
+          "name": "سورة التغابن",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/064/main.m3u8"
+        },
+        {
+          "number": 65,
+          "name": "سورة الطلاق",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/065/main.m3u8"
+        },
+        {
+          "number": 66,
+          "name": "سورة التحريم",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/066/main.m3u8"
+        },
+        {
+          "number": 67,
+          "name": "سورة الملك",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/067/main.m3u8"
+        },
+        {
+          "number": 68,
+          "name": "سورة القلم",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/068/main.m3u8"
+        },
+        {
+          "number": 69,
+          "name": "سورة الحاقة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/069/main.m3u8"
+        },
+        {
+          "number": 70,
+          "name": "سورة المعارج",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/070/main.m3u8"
+        },
+        {
+          "number": 71,
+          "name": "سورة نوح",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/071/main.m3u8"
+        },
+        {
+          "number": 72,
+          "name": "سورة الجن",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/072/main.m3u8"
+        },
+        {
+          "number": 73,
+          "name": "سورة المزمل",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/073/main.m3u8"
+        },
+        {
+          "number": 74,
+          "name": "سورة المدثر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/074/main.m3u8"
+        },
+        {
+          "number": 75,
+          "name": "سورة القيامة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/075/main.m3u8"
+        },
+        {
+          "number": 76,
+          "name": "سورة الإنسان",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/076/main.m3u8"
+        },
+        {
+          "number": 77,
+          "name": "سورة المرسلات",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/077/main.m3u8"
+        },
+        {
+          "number": 78,
+          "name": "سورة النبأ",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/078/main.m3u8"
+        },
+        {
+          "number": 79,
+          "name": "سورة النازعات",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/079/main.m3u8"
+        },
+        {
+          "number": 80,
+          "name": "سورة عبس",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/080/main.m3u8"
+        },
+        {
+          "number": 81,
+          "name": "سورة التكوير",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/081/main.m3u8"
+        },
+        {
+          "number": 82,
+          "name": "سورة الانفطار",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/082/main.m3u8"
+        },
+        {
+          "number": 83,
+          "name": "سورة المطففين",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/083/main.m3u8"
+        },
+        {
+          "number": 84,
+          "name": "سورة الانشقاق",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/084/main.m3u8"
+        },
+        {
+          "number": 85,
+          "name": "سورة البروج",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/085/main.m3u8"
+        },
+        {
+          "number": 86,
+          "name": "سورة الطارق",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/086/main.m3u8"
+        },
+        {
+          "number": 87,
+          "name": "سورة الأعلى",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/087/main.m3u8"
+        },
+        {
+          "number": 88,
+          "name": "سورة الغاشية",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/088/main.m3u8"
+        },
+        {
+          "number": 89,
+          "name": "سورة الفجر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/089/main.m3u8"
+        },
+        {
+          "number": 90,
+          "name": "سورة البلد",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/090/main.m3u8"
+        },
+        {
+          "number": 91,
+          "name": "سورة الشمس",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/091/main.m3u8"
+        },
+        {
+          "number": 92,
+          "name": "سورة الليل",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/092/main.m3u8"
+        },
+        {
+          "number": 93,
+          "name": "سورة الضحى",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/093/main.m3u8"
+        },
+        {
+          "number": 94,
+          "name": "سورة الشرح",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/094/main.m3u8"
+        },
+        {
+          "number": 95,
+          "name": "سورة التين",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/095/main.m3u8"
+        },
+        {
+          "number": 96,
+          "name": "سورة العلق",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/096/main.m3u8"
+        },
+        {
+          "number": 97,
+          "name": "سورة القدر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/097/main.m3u8"
+        },
+        {
+          "number": 98,
+          "name": "سورة البينة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/098/main.m3u8"
+        },
+        {
+          "number": 99,
+          "name": "سورة الزلزلة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/099/main.m3u8"
+        },
+        {
+          "number": 100,
+          "name": "سورة العاديات",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/100/main.m3u8"
+        },
+        {
+          "number": 101,
+          "name": "سورة القارعة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/101/main.m3u8"
+        },
+        {
+          "number": 102,
+          "name": "سورة التكاثر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/102/main.m3u8"
+        },
+        {
+          "number": 103,
+          "name": "سورة العصر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/103/main.m3u8"
+        },
+        {
+          "number": 104,
+          "name": "سورة الهمزة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/104/main.m3u8"
+        },
+        {
+          "number": 105,
+          "name": "سورة الفيل",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/105/main.m3u8"
+        },
+        {
+          "number": 106,
+          "name": "سورة قريش",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/106/main.m3u8"
+        },
+        {
+          "number": 107,
+          "name": "سورة الماعون",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/107/main.m3u8"
+        },
+        {
+          "number": 108,
+          "name": "سورة الكوثر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/108/main.m3u8"
+        },
+        {
+          "number": 109,
+          "name": "سورة الكافرون",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/109/main.m3u8"
+        },
+        {
+          "number": 110,
+          "name": "سورة النصر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/110/main.m3u8"
+        },
+        {
+          "number": 111,
+          "name": "سورة المسد",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/111/main.m3u8"
+        },
+        {
+          "number": 112,
+          "name": "سورة الإخلاص",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/112/main.m3u8"
+        },
+        {
+          "number": 113,
+          "name": "سورة الفلق",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/113/main.m3u8"
+        },
+        {
+          "number": 114,
+          "name": "سورة الناس",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Abdul_Basit_Abdul_Samad_hls/114/main.m3u8"
+        }
+      ]
+    },
+	{
+      "name": "شیخ مصطفی اسماعیل",
+      "surahs": [
+        {
+          "number": 1,
+          "name": "سورة الفاتحة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/001/main.m3u8"
+        },
+        {
+          "number": 2,
+          "name": "سورة البقرة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/002/main.m3u8"
+        },
+        {
+          "number": 3,
+          "name": "سورة آل عمران",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/003/main.m3u8"
+        },
+        {
+          "number": 4,
+          "name": "سورة النساء",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/004/main.m3u8"
+        },
+        {
+          "number": 5,
+          "name": "سورة المائدة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/005/main.m3u8"
+        },
+        {
+          "number": 6,
+          "name": "سورة الأنعام",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/006/main.m3u8"
+        },
+        {
+          "number": 7,
+          "name": "سورة الأعراف",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/007/main.m3u8"
+        },
+        {
+          "number": 8,
+          "name": "سورة الأنفال",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/008/main.m3u8"
+        },
+        {
+          "number": 9,
+          "name": "سورة التوبة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/009/main.m3u8"
+        },
+        {
+          "number": 10,
+          "name": "سورة يونس",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/010/main.m3u8"
+        },
+        {
+          "number": 11,
+          "name": "سورة هود",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/011/main.m3u8"
+        },
+        {
+          "number": 12,
+          "name": "سورة يوسف",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/012/main.m3u8"
+        },
+        {
+          "number": 13,
+          "name": "سورة الرعد",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/013/main.m3u8"
+        },
+        {
+          "number": 14,
+          "name": "سورة إبراهيم",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/014/main.m3u8"
+        },
+        {
+          "number": 15,
+          "name": "سورة الحجر",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/015/main.m3u8"
+        },
+        {
+          "number": 16,
+          "name": "سورة النحل",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/016/main.m3u8"
+        },
+        {
+          "number": 17,
+          "name": "سورة الإسراء",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/017/main.m3u8"
+        },
+        {
+          "number": 18,
+          "name": "سورة الكهف",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/018/main.m3u8"
+        },
+        {
+          "number": 19,
+          "name": "سورة مريم",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/019/main.m3u8"
+        },
+        {
+          "number": 20,
+          "name": "سورة طه",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/020/main.m3u8"
+        },
+        {
+          "number": 21,
+          "name": "سورة الأنبياء",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/021/main.m3u8"
+        },
+        {
+          "number": 22,
+          "name": "سورة الحج",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/022/main.m3u8"
+        },
+        {
+          "number": 23,
+          "name": "سورة المؤمنون",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/023/main.m3u8"
+        },
+        {
+          "number": 24,
+          "name": "سورة النور",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/024/main.m3u8"
+        },
+        {
+          "number": 25,
+          "name": "سورة الفرقان",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/025/main.m3u8"
+        },
+        {
+          "number": 26,
+          "name": "سورة الشعراء",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/026/main.m3u8"
+        },
+        {
+          "number": 27,
+          "name": "سورة النمل",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/027/main.m3u8"
+        },
+        {
+          "number": 28,
+          "name": "سورة القصص",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/028/main.m3u8"
+        },
+        {
+          "number": 29,
+          "name": "سورة العنكبوت",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/029/main.m3u8"
+        },
+        {
+          "number": 30,
+          "name": "سورة الروم",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/030/main.m3u8"
+        },
+        {
+          "number": 31,
+          "name": "سورة لقمان",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/031/main.m3u8"
+        },
+        {
+          "number": 32,
+          "name": "سورة السجدة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/032/main.m3u8"
+        },
+        {
+          "number": 33,
+          "name": "سورة الأحزاب",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/033/main.m3u8"
+        },
+        {
+          "number": 34,
+          "name": "سورة سبإ",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/034/main.m3u8"
+        },
+        {
+          "number": 35,
+          "name": "سورة فاطر",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/035/main.m3u8"
+        },
+        {
+          "number": 36,
+          "name": "سورة يس",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/036/main.m3u8"
+        },
+        {
+          "number": 37,
+          "name": "سورة الصافات",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/037/main.m3u8"
+        },
+        {
+          "number": 38,
+          "name": "سورة ص",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/038/main.m3u8"
+        },
+        {
+          "number": 39,
+          "name": "سورة الزمر",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/039/main.m3u8"
+        },
+        {
+          "number": 40,
+          "name": "سورة غافر",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/040/main.m3u8"
+        },
+        {
+          "number": 41,
+          "name": "سورة فصلت",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/041/main.m3u8"
+        },
+        {
+          "number": 42,
+          "name": "سورة الشورى",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/042/main.m3u8"
+        },
+        {
+          "number": 43,
+          "name": "سورة الزخرف",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/043/main.m3u8"
+        },
+        {
+          "number": 44,
+          "name": "سورة الدخان",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/044/main.m3u8"
+        },
+        {
+          "number": 45,
+          "name": "سورة الجاثية",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/045/main.m3u8"
+        },
+        {
+          "number": 46,
+          "name": "سورة الأحقاف",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/046/main.m3u8"
+        },
+        {
+          "number": 47,
+          "name": "سورة محمد",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/047/main.m3u8"
+        },
+        {
+          "number": 48,
+          "name": "سورة الفتح",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/048/main.m3u8"
+        },
+        {
+          "number": 49,
+          "name": "سورة الحجرات",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/049/main.m3u8"
+        },
+        {
+          "number": 50,
+          "name": "سورة ق",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/050/main.m3u8"
+        },
+        {
+          "number": 51,
+          "name": "سورة الذاريات",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/051/main.m3u8"
+        },
+        {
+          "number": 52,
+          "name": "سورة الطور",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/052/main.m3u8"
+        },
+        {
+          "number": 53,
+          "name": "سورة النجم",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/053/main.m3u8"
+        },
+        {
+          "number": 54,
+          "name": "سورة القمر",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/054/main.m3u8"
+        },
+        {
+          "number": 55,
+          "name": "سورة الرحمن",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/055/main.m3u8"
+        },
+        {
+          "number": 56,
+          "name": "سورة الواقعة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/056/main.m3u8"
+        },
+        {
+          "number": 57,
+          "name": "سورة الحديد",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/057/main.m3u8"
+        },
+        {
+          "number": 58,
+          "name": "سورة المجادلة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/058/main.m3u8"
+        },
+        {
+          "number": 59,
+          "name": "سورة الحشر",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/059/main.m3u8"
+        },
+        {
+          "number": 60,
+          "name": "سورة الممتحنة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/060/main.m3u8"
+        },
+        {
+          "number": 61,
+          "name": "سورة الصف",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/061/main.m3u8"
+        },
+        {
+          "number": 62,
+          "name": "سورة الجمعة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/062/main.m3u8"
+        },
+        {
+          "number": 63,
+          "name": "سورة المنافقون",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/063/main.m3u8"
+        },
+        {
+          "number": 64,
+          "name": "سورة التغابن",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/064/main.m3u8"
+        },
+        {
+          "number": 65,
+          "name": "سورة الطلاق",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/065/main.m3u8"
+        },
+        {
+          "number": 66,
+          "name": "سورة التحريم",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/066/main.m3u8"
+        },
+        {
+          "number": 67,
+          "name": "سورة الملك",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/067/main.m3u8"
+        },
+        {
+          "number": 68,
+          "name": "سورة القلم",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/068/main.m3u8"
+        },
+        {
+          "number": 69,
+          "name": "سورة الحاقة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/069/main.m3u8"
+        },
+        {
+          "number": 70,
+          "name": "سورة المعارج",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/070/main.m3u8"
+        },
+        {
+          "number": 71,
+          "name": "سورة نوح",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/071/main.m3u8"
+        },
+        {
+          "number": 72,
+          "name": "سورة الجن",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/072/main.m3u8"
+        },
+        {
+          "number": 73,
+          "name": "سورة المزمل",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/073/main.m3u8"
+        },
+        {
+          "number": 74,
+          "name": "سورة المدثر",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/074/main.m3u8"
+        },
+        {
+          "number": 75,
+          "name": "سورة القيامة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/075/main.m3u8"
+        },
+        {
+          "number": 76,
+          "name": "سورة الإنسان",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/076/main.m3u8"
+        },
+        {
+          "number": 77,
+          "name": "سورة المرسلات",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/077/main.m3u8"
+        },
+        {
+          "number": 78,
+          "name": "سورة النبأ",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/078/main.m3u8"
+        },
+        {
+          "number": 79,
+          "name": "سورة النازعات",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/079/main.m3u8"
+        },
+        {
+          "number": 80,
+          "name": "سورة عبس",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/080/main.m3u8"
+        },
+        {
+          "number": 81,
+          "name": "سورة التكوير",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/081/main.m3u8"
+        },
+        {
+          "number": 82,
+          "name": "سورة الانفطار",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/082/main.m3u8"
+        },
+        {
+          "number": 83,
+          "name": "سورة المطففين",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/083/main.m3u8"
+        },
+        {
+          "number": 84,
+          "name": "سورة الانشقاق",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/084/main.m3u8"
+        },
+        {
+          "number": 85,
+          "name": "سورة البروج",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/085/main.m3u8"
+        },
+        {
+          "number": 86,
+          "name": "سورة الطارق",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/086/main.m3u8"
+        },
+        {
+          "number": 87,
+          "name": "سورة الأعلى",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/087/main.m3u8"
+        },
+        {
+          "number": 88,
+          "name": "سورة الغاشية",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/088/main.m3u8"
+        },
+        {
+          "number": 89,
+          "name": "سورة الفجر",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/089/main.m3u8"
+        },
+        {
+          "number": 90,
+          "name": "سورة البلد",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/090/main.m3u8"
+        },
+        {
+          "number": 91,
+          "name": "سورة الشمس",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/091/main.m3u8"
+        },
+        {
+          "number": 92,
+          "name": "سورة الليل",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/092/main.m3u8"
+        },
+        {
+          "number": 93,
+          "name": "سورة الضحى",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/093/main.m3u8"
+        },
+        {
+          "number": 94,
+          "name": "سورة الشرح",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/094/main.m3u8"
+        },
+        {
+          "number": 95,
+          "name": "سورة التين",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/095/main.m3u8"
+        },
+        {
+          "number": 96,
+          "name": "سورة العلق",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/096/main.m3u8"
+        },
+        {
+          "number": 97,
+          "name": "سورة القدر",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/097/main.m3u8"
+        },
+        {
+          "number": 98,
+          "name": "سورة البينة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/098/main.m3u8"
+        },
+        {
+          "number": 99,
+          "name": "سورة الزلزلة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/099/main.m3u8"
+        },
+        {
+          "number": 100,
+          "name": "سورة العاديات",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/100/main.m3u8"
+        },
+        {
+          "number": 101,
+          "name": "سورة القارعة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/101/main.m3u8"
+        },
+        {
+          "number": 102,
+          "name": "سورة التكاثر",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/102/main.m3u8"
+        },
+        {
+          "number": 103,
+          "name": "سورة العصر",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/103/main.m3u8"
+        },
+        {
+          "number": 104,
+          "name": "سورة الهمزة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/104/main.m3u8"
+        },
+        {
+          "number": 105,
+          "name": "سورة الفيل",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/105/main.m3u8"
+        },
+        {
+          "number": 106,
+          "name": "سورة قريش",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/106/main.m3u8"
+        },
+        {
+          "number": 107,
+          "name": "سورة الماعون",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/107/main.m3u8"
+        },
+        {
+          "number": 108,
+          "name": "سورة الكوثر",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/108/main.m3u8"
+        },
+        {
+          "number": 109,
+          "name": "سورة الكافرون",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/109/main.m3u8"
+        },
+        {
+          "number": 110,
+          "name": "سورة النصر",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/110/main.m3u8"
+        },
+        {
+          "number": 111,
+          "name": "سورة المسد",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/111/main.m3u8"
+        },
+        {
+          "number": 112,
+          "name": "سورة الإخلاص",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/112/main.m3u8"
+        },
+        {
+          "number": 113,
+          "name": "سورة الفلق",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/113/main.m3u8"
+        },
+        {
+          "number": 114,
+          "name": "سورة الناس",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Mustafa_Ismail_hls/114/main.m3u8"
+        }
+      ]
+    },
+	{
+      "name": "شیخ یاسر الدوسری",
+      "surahs": [
+        {
+          "number": 1,
+          "name": "سورة الفاتحة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/001/main.m3u8"
+        },
+        {
+          "number": 2,
+          "name": "سورة البقرة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/002/main.m3u8"
+        },
+        {
+          "number": 3,
+          "name": "سورة آل عمران",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/003/main.m3u8"
+        },
+        {
+          "number": 4,
+          "name": "سورة النساء",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/004/main.m3u8"
+        },
+        {
+          "number": 5,
+          "name": "سورة المائدة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/005/main.m3u8"
+        },
+        {
+          "number": 6,
+          "name": "سورة الأنعام",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/006/main.m3u8"
+        },
+        {
+          "number": 7,
+          "name": "سورة الأعراف",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/007/main.m3u8"
+        },
+        {
+          "number": 8,
+          "name": "سورة الأنفال",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/008/main.m3u8"
+        },
+        {
+          "number": 9,
+          "name": "سورة التوبة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/009/main.m3u8"
+        },
+        {
+          "number": 10,
+          "name": "سورة يونس",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/010/main.m3u8"
+        },
+        {
+          "number": 11,
+          "name": "سورة هود",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/011/main.m3u8"
+        },
+        {
+          "number": 12,
+          "name": "سورة يوسف",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/012/main.m3u8"
+        },
+        {
+          "number": 13,
+          "name": "سورة الرعد",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/013/main.m3u8"
+        },
+        {
+          "number": 14,
+          "name": "سورة إبراهيم",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/014/main.m3u8"
+        },
+        {
+          "number": 15,
+          "name": "سورة الحجر",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/015/main.m3u8"
+        },
+        {
+          "number": 16,
+          "name": "سورة النحل",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/016/main.m3u8"
+        },
+        {
+          "number": 17,
+          "name": "سورة الإسراء",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/017/main.m3u8"
+        },
+        {
+          "number": 18,
+          "name": "سورة الكهف",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/018/main.m3u8"
+        },
+        {
+          "number": 19,
+          "name": "سورة مريم",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/019/main.m3u8"
+        },
+        {
+          "number": 20,
+          "name": "سورة طه",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/020/main.m3u8"
+        },
+        {
+          "number": 21,
+          "name": "سورة الأنبياء",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/021/main.m3u8"
+        },
+        {
+          "number": 22,
+          "name": "سورة الحج",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/022/main.m3u8"
+        },
+        {
+          "number": 23,
+          "name": "سورة المؤمنون",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/023/main.m3u8"
+        },
+        {
+          "number": 24,
+          "name": "سورة النور",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/024/main.m3u8"
+        },
+        {
+          "number": 25,
+          "name": "سورة الفرقان",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/025/main.m3u8"
+        },
+        {
+          "number": 26,
+          "name": "سورة الشعراء",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/026/main.m3u8"
+        },
+        {
+          "number": 27,
+          "name": "سورة النمل",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/027/main.m3u8"
+        },
+        {
+          "number": 28,
+          "name": "سورة القصص",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/028/main.m3u8"
+        },
+        {
+          "number": 29,
+          "name": "سورة العنكبوت",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/029/main.m3u8"
+        },
+        {
+          "number": 30,
+          "name": "سورة الروم",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/030/main.m3u8"
+        },
+        {
+          "number": 31,
+          "name": "سورة لقمان",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/031/main.m3u8"
+        },
+        {
+          "number": 32,
+          "name": "سورة السجدة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/032/main.m3u8"
+        },
+        {
+          "number": 33,
+          "name": "سورة الأحزاب",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/033/main.m3u8"
+        },
+        {
+          "number": 34,
+          "name": "سورة سبإ",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/034/main.m3u8"
+        },
+        {
+          "number": 35,
+          "name": "سورة فاطر",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/035/main.m3u8"
+        },
+        {
+          "number": 36,
+          "name": "سورة يس",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/036/main.m3u8"
+        },
+        {
+          "number": 37,
+          "name": "سورة الصافات",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/037/main.m3u8"
+        },
+        {
+          "number": 38,
+          "name": "سورة ص",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/038/main.m3u8"
+        },
+        {
+          "number": 39,
+          "name": "سورة الزمر",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/039/main.m3u8"
+        },
+        {
+          "number": 40,
+          "name": "سورة غافر",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/040/main.m3u8"
+        },
+        {
+          "number": 41,
+          "name": "سورة فصلت",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/041/main.m3u8"
+        },
+        {
+          "number": 42,
+          "name": "سورة الشورى",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/042/main.m3u8"
+        },
+        {
+          "number": 43,
+          "name": "سورة الزخرف",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/043/main.m3u8"
+        },
+        {
+          "number": 44,
+          "name": "سورة الدخان",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/044/main.m3u8"
+        },
+        {
+          "number": 45,
+          "name": "سورة الجاثية",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/045/main.m3u8"
+        },
+        {
+          "number": 46,
+          "name": "سورة الأحقاف",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/046/main.m3u8"
+        },
+        {
+          "number": 47,
+          "name": "سورة محمد",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/047/main.m3u8"
+        },
+        {
+          "number": 48,
+          "name": "سورة الفتح",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/048/main.m3u8"
+        },
+        {
+          "number": 49,
+          "name": "سورة الحجرات",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/049/main.m3u8"
+        },
+        {
+          "number": 50,
+          "name": "سورة ق",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/050/main.m3u8"
+        },
+        {
+          "number": 51,
+          "name": "سورة الذاريات",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/051/main.m3u8"
+        },
+        {
+          "number": 52,
+          "name": "سورة الطور",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/052/main.m3u8"
+        },
+        {
+          "number": 53,
+          "name": "سورة النجم",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/053/main.m3u8"
+        },
+        {
+          "number": 54,
+          "name": "سورة القمر",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/054/main.m3u8"
+        },
+        {
+          "number": 55,
+          "name": "سورة الرحمن",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/055/main.m3u8"
+        },
+        {
+          "number": 56,
+          "name": "سورة الواقعة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/056/main.m3u8"
+        },
+        {
+          "number": 57,
+          "name": "سورة الحديد",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/057/main.m3u8"
+        },
+        {
+          "number": 58,
+          "name": "سورة المجادلة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/058/main.m3u8"
+        },
+        {
+          "number": 59,
+          "name": "سورة الحشر",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/059/main.m3u8"
+        },
+        {
+          "number": 60,
+          "name": "سورة الممتحنة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/060/main.m3u8"
+        },
+        {
+          "number": 61,
+          "name": "سورة الصف",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/061/main.m3u8"
+        },
+        {
+          "number": 62,
+          "name": "سورة الجمعة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/062/main.m3u8"
+        },
+        {
+          "number": 63,
+          "name": "سورة المنافقون",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/063/main.m3u8"
+        },
+        {
+          "number": 64,
+          "name": "سورة التغابن",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/064/main.m3u8"
+        },
+        {
+          "number": 65,
+          "name": "سورة الطلاق",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/065/main.m3u8"
+        },
+        {
+          "number": 66,
+          "name": "سورة التحريم",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/066/main.m3u8"
+        },
+        {
+          "number": 67,
+          "name": "سورة الملك",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/067/main.m3u8"
+        },
+        {
+          "number": 68,
+          "name": "سورة القلم",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/068/main.m3u8"
+        },
+        {
+          "number": 69,
+          "name": "سورة الحاقة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/069/main.m3u8"
+        },
+        {
+          "number": 70,
+          "name": "سورة المعارج",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/070/main.m3u8"
+        },
+        {
+          "number": 71,
+          "name": "سورة نوح",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/071/main.m3u8"
+        },
+        {
+          "number": 72,
+          "name": "سورة الجن",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/072/main.m3u8"
+        },
+        {
+          "number": 73,
+          "name": "سورة المزمل",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/073/main.m3u8"
+        },
+        {
+          "number": 74,
+          "name": "سورة المدثر",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/074/main.m3u8"
+        },
+        {
+          "number": 75,
+          "name": "سورة القيامة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/075/main.m3u8"
+        },
+        {
+          "number": 76,
+          "name": "سورة الإنسان",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/076/main.m3u8"
+        },
+        {
+          "number": 77,
+          "name": "سورة المرسلات",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/077/main.m3u8"
+        },
+        {
+          "number": 78,
+          "name": "سورة النبأ",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/078/main.m3u8"
+        },
+        {
+          "number": 79,
+          "name": "سورة النازعات",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/079/main.m3u8"
+        },
+        {
+          "number": 80,
+          "name": "سورة عبس",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/080/main.m3u8"
+        },
+        {
+          "number": 81,
+          "name": "سورة التكوير",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/081/main.m3u8"
+        },
+        {
+          "number": 82,
+          "name": "سورة الانفطار",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/082/main.m3u8"
+        },
+        {
+          "number": 83,
+          "name": "سورة المطففين",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/083/main.m3u8"
+        },
+        {
+          "number": 84,
+          "name": "سورة الانشقاق",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/084/main.m3u8"
+        },
+        {
+          "number": 85,
+          "name": "سورة البروج",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/085/main.m3u8"
+        },
+        {
+          "number": 86,
+          "name": "سورة الطارق",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/086/main.m3u8"
+        },
+        {
+          "number": 87,
+          "name": "سورة الأعلى",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/087/main.m3u8"
+        },
+        {
+          "number": 88,
+          "name": "سورة الغاشية",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/088/main.m3u8"
+        },
+        {
+          "number": 89,
+          "name": "سورة الفجر",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/089/main.m3u8"
+        },
+        {
+          "number": 90,
+          "name": "سورة البلد",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/090/main.m3u8"
+        },
+        {
+          "number": 91,
+          "name": "سورة الشمس",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/091/main.m3u8"
+        },
+        {
+          "number": 92,
+          "name": "سورة الليل",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/092/main.m3u8"
+        },
+        {
+          "number": 93,
+          "name": "سورة الضحى",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/093/main.m3u8"
+        },
+        {
+          "number": 94,
+          "name": "سورة الشرح",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/094/main.m3u8"
+        },
+        {
+          "number": 95,
+          "name": "سورة التين",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/095/main.m3u8"
+        },
+        {
+          "number": 96,
+          "name": "سورة العلق",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/096/main.m3u8"
+        },
+        {
+          "number": 97,
+          "name": "سورة القدر",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/097/main.m3u8"
+        },
+        {
+          "number": 98,
+          "name": "سورة البينة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/098/main.m3u8"
+        },
+        {
+          "number": 99,
+          "name": "سورة الزلزلة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/099/main.m3u8"
+        },
+        {
+          "number": 100,
+          "name": "سورة العاديات",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/100/main.m3u8"
+        },
+        {
+          "number": 101,
+          "name": "سورة القارعة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/101/main.m3u8"
+        },
+        {
+          "number": 102,
+          "name": "سورة التكاثر",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/102/main.m3u8"
+        },
+        {
+          "number": 103,
+          "name": "سورة العصر",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/103/main.m3u8"
+        },
+        {
+          "number": 104,
+          "name": "سورة الهمزة",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/104/main.m3u8"
+        },
+        {
+          "number": 105,
+          "name": "سورة الفيل",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/105/main.m3u8"
+        },
+        {
+          "number": 106,
+          "name": "سورة قريش",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/106/main.m3u8"
+        },
+        {
+          "number": 107,
+          "name": "سورة الماعون",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/107/main.m3u8"
+        },
+        {
+          "number": 108,
+          "name": "سورة الكوثر",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/108/main.m3u8"
+        },
+        {
+          "number": 109,
+          "name": "سورة الكافرون",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/109/main.m3u8"
+        },
+        {
+          "number": 110,
+          "name": "سورة النصر",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/110/main.m3u8"
+        },
+        {
+          "number": 111,
+          "name": "سورة المسد",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/111/main.m3u8"
+        },
+        {
+          "number": 112,
+          "name": "سورة الإخلاص",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/112/main.m3u8"
+        },
+        {
+          "number": 113,
+          "name": "سورة الفلق",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/113/main.m3u8"
+        },
+        {
+          "number": 114,
+          "name": "سورة الناس",
+          "audio": "https://pub-d460b2743d3f446e9ad1eeadf0c824b4.r2.dev/Sheikh_Yasser_Al_Dosari_hls/114/main.m3u8"
+        }
+      ]
+    },
+	{
+      "name": "شیخ محمود خلیل الحُصری",
+      "surahs": [
+        {
+          "number": 1,
+          "name": "سورة الفاتحة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/001/main.m3u8"
+        },
+        {
+          "number": 2,
+          "name": "سورة البقرة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/002/main.m3u8"
+        },
+        {
+          "number": 3,
+          "name": "سورة آل عمران",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/003/main.m3u8"
+        },
+        {
+          "number": 4,
+          "name": "سورة النساء",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/004/main.m3u8"
+        },
+        {
+          "number": 5,
+          "name": "سورة المائدة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/005/main.m3u8"
+        },
+        {
+          "number": 6,
+          "name": "سورة الأنعام",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/006/main.m3u8"
+        },
+        {
+          "number": 7,
+          "name": "سورة الأعراف",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/007/main.m3u8"
+        },
+        {
+          "number": 8,
+          "name": "سورة الأنفال",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/008/main.m3u8"
+        },
+        {
+          "number": 9,
+          "name": "سورة التوبة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/009/main.m3u8"
+        },
+        {
+          "number": 10,
+          "name": "سورة يونس",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/010/main.m3u8"
+        },
+        {
+          "number": 11,
+          "name": "سورة هود",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/011/main.m3u8"
+        },
+        {
+          "number": 12,
+          "name": "سورة يوسف",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/012/main.m3u8"
+        },
+        {
+          "number": 13,
+          "name": "سورة الرعد",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/013/main.m3u8"
+        },
+        {
+          "number": 14,
+          "name": "سورة إبراهيم",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/014/main.m3u8"
+        },
+        {
+          "number": 15,
+          "name": "سورة الحجر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/015/main.m3u8"
+        },
+        {
+          "number": 16,
+          "name": "سورة النحل",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/016/main.m3u8"
+        },
+        {
+          "number": 17,
+          "name": "سورة الإسراء",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/017/main.m3u8"
+        },
+        {
+          "number": 18,
+          "name": "سورة الكهف",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/018/main.m3u8"
+        },
+        {
+          "number": 19,
+          "name": "سورة مريم",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/019/main.m3u8"
+        },
+        {
+          "number": 20,
+          "name": "سورة طه",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/020/main.m3u8"
+        },
+        {
+          "number": 21,
+          "name": "سورة الأنبياء",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/021/main.m3u8"
+        },
+        {
+          "number": 22,
+          "name": "سورة الحج",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/022/main.m3u8"
+        },
+        {
+          "number": 23,
+          "name": "سورة المؤمنون",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/023/main.m3u8"
+        },
+        {
+          "number": 24,
+          "name": "سورة النور",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/024/main.m3u8"
+        },
+        {
+          "number": 25,
+          "name": "سورة الفرقان",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/025/main.m3u8"
+        },
+        {
+          "number": 26,
+          "name": "سورة الشعراء",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/026/main.m3u8"
+        },
+        {
+          "number": 27,
+          "name": "سورة النمل",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/027/main.m3u8"
+        },
+        {
+          "number": 28,
+          "name": "سورة القصص",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/028/main.m3u8"
+        },
+        {
+          "number": 29,
+          "name": "سورة العنكبوت",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/029/main.m3u8"
+        },
+        {
+          "number": 30,
+          "name": "سورة الروم",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/030/main.m3u8"
+        },
+        {
+          "number": 31,
+          "name": "سورة لقمان",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/031/main.m3u8"
+        },
+        {
+          "number": 32,
+          "name": "سورة السجدة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/032/main.m3u8"
+        },
+        {
+          "number": 33,
+          "name": "سورة الأحزاب",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/033/main.m3u8"
+        },
+        {
+          "number": 34,
+          "name": "سورة سبإ",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/034/main.m3u8"
+        },
+        {
+          "number": 35,
+          "name": "سورة فاطر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/035/main.m3u8"
+        },
+        {
+          "number": 36,
+          "name": "سورة يس",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/036/main.m3u8"
+        },
+        {
+          "number": 37,
+          "name": "سورة الصافات",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/037/main.m3u8"
+        },
+        {
+          "number": 38,
+          "name": "سورة ص",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/038/main.m3u8"
+        },
+        {
+          "number": 39,
+          "name": "سورة الزمر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/039/main.m3u8"
+        },
+        {
+          "number": 40,
+          "name": "سورة غافر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/040/main.m3u8"
+        },
+        {
+          "number": 41,
+          "name": "سورة فصلت",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/041/main.m3u8"
+        },
+        {
+          "number": 42,
+          "name": "سورة الشورى",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/042/main.m3u8"
+        },
+        {
+          "number": 43,
+          "name": "سورة الزخرف",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/043/main.m3u8"
+        },
+        {
+          "number": 44,
+          "name": "سورة الدخان",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/044/main.m3u8"
+        },
+        {
+          "number": 45,
+          "name": "سورة الجاثية",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/045/main.m3u8"
+        },
+        {
+          "number": 46,
+          "name": "سورة الأحقاف",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/046/main.m3u8"
+        },
+        {
+          "number": 47,
+          "name": "سورة محمد",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/047/main.m3u8"
+        },
+        {
+          "number": 48,
+          "name": "سورة الفتح",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/048/main.m3u8"
+        },
+        {
+          "number": 49,
+          "name": "سورة الحجرات",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/049/main.m3u8"
+        },
+        {
+          "number": 50,
+          "name": "سورة ق",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/050/main.m3u8"
+        },
+        {
+          "number": 51,
+          "name": "سورة الذاريات",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/051/main.m3u8"
+        },
+        {
+          "number": 52,
+          "name": "سورة الطور",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/052/main.m3u8"
+        },
+        {
+          "number": 53,
+          "name": "سورة النجم",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/053/main.m3u8"
+        },
+        {
+          "number": 54,
+          "name": "سورة القمر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/054/main.m3u8"
+        },
+        {
+          "number": 55,
+          "name": "سورة الرحمن",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/055/main.m3u8"
+        },
+        {
+          "number": 56,
+          "name": "سورة الواقعة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/056/main.m3u8"
+        },
+        {
+          "number": 57,
+          "name": "سورة الحديد",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/057/main.m3u8"
+        },
+        {
+          "number": 58,
+          "name": "سورة المجادلة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/058/main.m3u8"
+        },
+        {
+          "number": 59,
+          "name": "سورة الحشر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/059/main.m3u8"
+        },
+        {
+          "number": 60,
+          "name": "سورة الممتحنة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/060/main.m3u8"
+        },
+        {
+          "number": 61,
+          "name": "سورة الصف",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/061/main.m3u8"
+        },
+        {
+          "number": 62,
+          "name": "سورة الجمعة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/062/main.m3u8"
+        },
+        {
+          "number": 63,
+          "name": "سورة المنافقون",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/063/main.m3u8"
+        },
+        {
+          "number": 64,
+          "name": "سورة التغابن",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/064/main.m3u8"
+        },
+        {
+          "number": 65,
+          "name": "سورة الطلاق",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/065/main.m3u8"
+        },
+        {
+          "number": 66,
+          "name": "سورة التحريم",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/066/main.m3u8"
+        },
+        {
+          "number": 67,
+          "name": "سورة الملك",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/067/main.m3u8"
+        },
+        {
+          "number": 68,
+          "name": "سورة القلم",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/068/main.m3u8"
+        },
+        {
+          "number": 69,
+          "name": "سورة الحاقة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/069/main.m3u8"
+        },
+        {
+          "number": 70,
+          "name": "سورة المعارج",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/070/main.m3u8"
+        },
+        {
+          "number": 71,
+          "name": "سورة نوح",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/071/main.m3u8"
+        },
+        {
+          "number": 72,
+          "name": "سورة الجن",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/072/main.m3u8"
+        },
+        {
+          "number": 73,
+          "name": "سورة المزمل",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/073/main.m3u8"
+        },
+        {
+          "number": 74,
+          "name": "سورة المدثر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/074/main.m3u8"
+        },
+        {
+          "number": 75,
+          "name": "سورة القيامة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/075/main.m3u8"
+        },
+        {
+          "number": 76,
+          "name": "سورة الإنسان",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/076/main.m3u8"
+        },
+        {
+          "number": 77,
+          "name": "سورة المرسلات",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/077/main.m3u8"
+        },
+        {
+          "number": 78,
+          "name": "سورة النبأ",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/078/main.m3u8"
+        },
+        {
+          "number": 79,
+          "name": "سورة النازعات",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/079/main.m3u8"
+        },
+        {
+          "number": 80,
+          "name": "سورة عبس",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/080/main.m3u8"
+        },
+        {
+          "number": 81,
+          "name": "سورة التكوير",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/081/main.m3u8"
+        },
+        {
+          "number": 82,
+          "name": "سورة الانفطار",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/082/main.m3u8"
+        },
+        {
+          "number": 83,
+          "name": "سورة المطففين",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/083/main.m3u8"
+        },
+        {
+          "number": 84,
+          "name": "سورة الانشقاق",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/084/main.m3u8"
+        },
+        {
+          "number": 85,
+          "name": "سورة البروج",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/085/main.m3u8"
+        },
+        {
+          "number": 86,
+          "name": "سورة الطارق",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/086/main.m3u8"
+        },
+        {
+          "number": 87,
+          "name": "سورة الأعلى",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/087/main.m3u8"
+        },
+        {
+          "number": 88,
+          "name": "سورة الغاشية",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/088/main.m3u8"
+        },
+        {
+          "number": 89,
+          "name": "سورة الفجر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/089/main.m3u8"
+        },
+        {
+          "number": 90,
+          "name": "سورة البلد",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/090/main.m3u8"
+        },
+        {
+          "number": 91,
+          "name": "سورة الشمس",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/091/main.m3u8"
+        },
+        {
+          "number": 92,
+          "name": "سورة الليل",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/092/main.m3u8"
+        },
+        {
+          "number": 93,
+          "name": "سورة الضحى",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/093/main.m3u8"
+        },
+        {
+          "number": 94,
+          "name": "سورة الشرح",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/094/main.m3u8"
+        },
+        {
+          "number": 95,
+          "name": "سورة التين",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/095/main.m3u8"
+        },
+        {
+          "number": 96,
+          "name": "سورة العلق",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/096/main.m3u8"
+        },
+        {
+          "number": 97,
+          "name": "سورة القدر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/097/main.m3u8"
+        },
+        {
+          "number": 98,
+          "name": "سورة البينة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/098/main.m3u8"
+        },
+        {
+          "number": 99,
+          "name": "سورة الزلزلة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/099/main.m3u8"
+        },
+        {
+          "number": 100,
+          "name": "سورة العاديات",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/100/main.m3u8"
+        },
+        {
+          "number": 101,
+          "name": "سورة القارعة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/101/main.m3u8"
+        },
+        {
+          "number": 102,
+          "name": "سورة التكاثر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/102/main.m3u8"
+        },
+        {
+          "number": 103,
+          "name": "سورة العصر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/103/main.m3u8"
+        },
+        {
+          "number": 104,
+          "name": "سورة الهمزة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/104/main.m3u8"
+        },
+        {
+          "number": 105,
+          "name": "سورة الفيل",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/105/main.m3u8"
+        },
+        {
+          "number": 106,
+          "name": "سورة قريش",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/106/main.m3u8"
+        },
+        {
+          "number": 107,
+          "name": "سورة الماعون",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/107/main.m3u8"
+        },
+        {
+          "number": 108,
+          "name": "سورة الكوثر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/108/main.m3u8"
+        },
+        {
+          "number": 109,
+          "name": "سورة الكافرون",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/109/main.m3u8"
+        },
+        {
+          "number": 110,
+          "name": "سورة النصر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/110/main.m3u8"
+        },
+        {
+          "number": 111,
+          "name": "سورة المسد",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/111/main.m3u8"
+        },
+        {
+          "number": 112,
+          "name": "سورة الإخلاص",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/112/main.m3u8"
+        },
+        {
+          "number": 113,
+          "name": "سورة الفلق",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/113/main.m3u8"
+        },
+        {
+          "number": 114,
+          "name": "سورة الناس",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Khalil_Al_Hosary_hls/114/main.m3u8"
+        }
+      ]
+    },
+	{
+      "name": "شیخ محمد ایوب",
+      "surahs": [
+        {
+          "number": 1,
+          "name": "سورة الفاتحة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/001/main.m3u8"
+        },
+        {
+          "number": 2,
+          "name": "سورة البقرة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/002/main.m3u8"
+        },
+        {
+          "number": 3,
+          "name": "سورة آل عمران",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/003/main.m3u8"
+        },
+        {
+          "number": 4,
+          "name": "سورة النساء",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/004/main.m3u8"
+        },
+        {
+          "number": 5,
+          "name": "سورة المائدة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/005/main.m3u8"
+        },
+        {
+          "number": 6,
+          "name": "سورة الأنعام",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/006/main.m3u8"
+        },
+        {
+          "number": 7,
+          "name": "سورة الأعراف",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/007/main.m3u8"
+        },
+        {
+          "number": 8,
+          "name": "سورة الأنفال",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/008/main.m3u8"
+        },
+        {
+          "number": 9,
+          "name": "سورة التوبة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/009/main.m3u8"
+        },
+        {
+          "number": 10,
+          "name": "سورة يونس",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/010/main.m3u8"
+        },
+        {
+          "number": 11,
+          "name": "سورة هود",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/011/main.m3u8"
+        },
+        {
+          "number": 12,
+          "name": "سورة يوسف",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/012/main.m3u8"
+        },
+        {
+          "number": 13,
+          "name": "سورة الرعد",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/013/main.m3u8"
+        },
+        {
+          "number": 14,
+          "name": "سورة إبراهيم",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/014/main.m3u8"
+        },
+        {
+          "number": 15,
+          "name": "سورة الحجر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/015/main.m3u8"
+        },
+        {
+          "number": 16,
+          "name": "سورة النحل",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/016/main.m3u8"
+        },
+        {
+          "number": 17,
+          "name": "سورة الإسراء",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/017/main.m3u8"
+        },
+        {
+          "number": 18,
+          "name": "سورة الكهف",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/018/main.m3u8"
+        },
+        {
+          "number": 19,
+          "name": "سورة مريم",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/019/main.m3u8"
+        },
+        {
+          "number": 20,
+          "name": "سورة طه",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/020/main.m3u8"
+        },
+        {
+          "number": 21,
+          "name": "سورة الأنبياء",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/021/main.m3u8"
+        },
+        {
+          "number": 22,
+          "name": "سورة الحج",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/022/main.m3u8"
+        },
+        {
+          "number": 23,
+          "name": "سورة المؤمنون",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/023/main.m3u8"
+        },
+        {
+          "number": 24,
+          "name": "سورة النور",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/024/main.m3u8"
+        },
+        {
+          "number": 25,
+          "name": "سورة الفرقان",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/025/main.m3u8"
+        },
+        {
+          "number": 26,
+          "name": "سورة الشعراء",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/026/main.m3u8"
+        },
+        {
+          "number": 27,
+          "name": "سورة النمل",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/027/main.m3u8"
+        },
+        {
+          "number": 28,
+          "name": "سورة القصص",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/028/main.m3u8"
+        },
+        {
+          "number": 29,
+          "name": "سورة العنكبوت",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/029/main.m3u8"
+        },
+        {
+          "number": 30,
+          "name": "سورة الروم",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/030/main.m3u8"
+        },
+        {
+          "number": 31,
+          "name": "سورة لقمان",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/031/main.m3u8"
+        },
+        {
+          "number": 32,
+          "name": "سورة السجدة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/032/main.m3u8"
+        },
+        {
+          "number": 33,
+          "name": "سورة الأحزاب",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/033/main.m3u8"
+        },
+        {
+          "number": 34,
+          "name": "سورة سبإ",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/034/main.m3u8"
+        },
+        {
+          "number": 35,
+          "name": "سورة فاطر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/035/main.m3u8"
+        },
+        {
+          "number": 36,
+          "name": "سورة يس",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/036/main.m3u8"
+        },
+        {
+          "number": 37,
+          "name": "سورة الصافات",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/037/main.m3u8"
+        },
+        {
+          "number": 38,
+          "name": "سورة ص",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/038/main.m3u8"
+        },
+        {
+          "number": 39,
+          "name": "سورة الزمر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/039/main.m3u8"
+        },
+        {
+          "number": 40,
+          "name": "سورة غافر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/040/main.m3u8"
+        },
+        {
+          "number": 41,
+          "name": "سورة فصلت",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/041/main.m3u8"
+        },
+        {
+          "number": 42,
+          "name": "سورة الشورى",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/042/main.m3u8"
+        },
+        {
+          "number": 43,
+          "name": "سورة الزخرف",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/043/main.m3u8"
+        },
+        {
+          "number": 44,
+          "name": "سورة الدخان",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/044/main.m3u8"
+        },
+        {
+          "number": 45,
+          "name": "سورة الجاثية",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/045/main.m3u8"
+        },
+        {
+          "number": 46,
+          "name": "سورة الأحقاف",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/046/main.m3u8"
+        },
+        {
+          "number": 47,
+          "name": "سورة محمد",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/047/main.m3u8"
+        },
+        {
+          "number": 48,
+          "name": "سورة الفتح",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/048/main.m3u8"
+        },
+        {
+          "number": 49,
+          "name": "سورة الحجرات",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/049/main.m3u8"
+        },
+        {
+          "number": 50,
+          "name": "سورة ق",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/050/main.m3u8"
+        },
+        {
+          "number": 51,
+          "name": "سورة الذاريات",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/051/main.m3u8"
+        },
+        {
+          "number": 52,
+          "name": "سورة الطور",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/052/main.m3u8"
+        },
+        {
+          "number": 53,
+          "name": "سورة النجم",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/053/main.m3u8"
+        },
+        {
+          "number": 54,
+          "name": "سورة القمر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/054/main.m3u8"
+        },
+        {
+          "number": 55,
+          "name": "سورة الرحمن",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/055/main.m3u8"
+        },
+        {
+          "number": 56,
+          "name": "سورة الواقعة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/056/main.m3u8"
+        },
+        {
+          "number": 57,
+          "name": "سورة الحديد",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/057/main.m3u8"
+        },
+        {
+          "number": 58,
+          "name": "سورة المجادلة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/058/main.m3u8"
+        },
+        {
+          "number": 59,
+          "name": "سورة الحشر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/059/main.m3u8"
+        },
+        {
+          "number": 60,
+          "name": "سورة الممتحنة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/060/main.m3u8"
+        },
+        {
+          "number": 61,
+          "name": "سورة الصف",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/061/main.m3u8"
+        },
+        {
+          "number": 62,
+          "name": "سورة الجمعة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/062/main.m3u8"
+        },
+        {
+          "number": 63,
+          "name": "سورة المنافقون",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/063/main.m3u8"
+        },
+        {
+          "number": 64,
+          "name": "سورة التغابن",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/064/main.m3u8"
+        },
+        {
+          "number": 65,
+          "name": "سورة الطلاق",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/065/main.m3u8"
+        },
+        {
+          "number": 66,
+          "name": "سورة التحريم",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/066/main.m3u8"
+        },
+        {
+          "number": 67,
+          "name": "سورة الملك",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/067/main.m3u8"
+        },
+        {
+          "number": 68,
+          "name": "سورة القلم",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/068/main.m3u8"
+        },
+        {
+          "number": 69,
+          "name": "سورة الحاقة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/069/main.m3u8"
+        },
+        {
+          "number": 70,
+          "name": "سورة المعارج",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/070/main.m3u8"
+        },
+        {
+          "number": 71,
+          "name": "سورة نوح",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/071/main.m3u8"
+        },
+        {
+          "number": 72,
+          "name": "سورة الجن",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/072/main.m3u8"
+        },
+        {
+          "number": 73,
+          "name": "سورة المزمل",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/073/main.m3u8"
+        },
+        {
+          "number": 74,
+          "name": "سورة المدثر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/074/main.m3u8"
+        },
+        {
+          "number": 75,
+          "name": "سورة القيامة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/075/main.m3u8"
+        },
+        {
+          "number": 76,
+          "name": "سورة الإنسان",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/076/main.m3u8"
+        },
+        {
+          "number": 77,
+          "name": "سورة المرسلات",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/077/main.m3u8"
+        },
+        {
+          "number": 78,
+          "name": "سورة النبأ",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/078/main.m3u8"
+        },
+        {
+          "number": 79,
+          "name": "سورة النازعات",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/079/main.m3u8"
+        },
+        {
+          "number": 80,
+          "name": "سورة عبس",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/080/main.m3u8"
+        },
+        {
+          "number": 81,
+          "name": "سورة التكوير",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/081/main.m3u8"
+        },
+        {
+          "number": 82,
+          "name": "سورة الانفطار",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/082/main.m3u8"
+        },
+        {
+          "number": 83,
+          "name": "سورة المطففين",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/083/main.m3u8"
+        },
+        {
+          "number": 84,
+          "name": "سورة الانشقاق",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/084/main.m3u8"
+        },
+        {
+          "number": 85,
+          "name": "سورة البروج",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/085/main.m3u8"
+        },
+        {
+          "number": 86,
+          "name": "سورة الطارق",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/086/main.m3u8"
+        },
+        {
+          "number": 87,
+          "name": "سورة الأعلى",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/087/main.m3u8"
+        },
+        {
+          "number": 88,
+          "name": "سورة الغاشية",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/088/main.m3u8"
+        },
+        {
+          "number": 89,
+          "name": "سورة الفجر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/089/main.m3u8"
+        },
+        {
+          "number": 90,
+          "name": "سورة البلد",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/090/main.m3u8"
+        },
+        {
+          "number": 91,
+          "name": "سورة الشمس",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/091/main.m3u8"
+        },
+        {
+          "number": 92,
+          "name": "سورة الليل",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/092/main.m3u8"
+        },
+        {
+          "number": 93,
+          "name": "سورة الضحى",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/093/main.m3u8"
+        },
+        {
+          "number": 94,
+          "name": "سورة الشرح",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/094/main.m3u8"
+        },
+        {
+          "number": 95,
+          "name": "سورة التين",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/095/main.m3u8"
+        },
+        {
+          "number": 96,
+          "name": "سورة العلق",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/096/main.m3u8"
+        },
+        {
+          "number": 97,
+          "name": "سورة القدر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/097/main.m3u8"
+        },
+        {
+          "number": 98,
+          "name": "سورة البينة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/098/main.m3u8"
+        },
+        {
+          "number": 99,
+          "name": "سورة الزلزلة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/099/main.m3u8"
+        },
+        {
+          "number": 100,
+          "name": "سورة العاديات",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/100/main.m3u8"
+        },
+        {
+          "number": 101,
+          "name": "سورة القارعة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/101/main.m3u8"
+        },
+        {
+          "number": 102,
+          "name": "سورة التكاثر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/102/main.m3u8"
+        },
+        {
+          "number": 103,
+          "name": "سورة العصر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/103/main.m3u8"
+        },
+        {
+          "number": 104,
+          "name": "سورة الهمزة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/104/main.m3u8"
+        },
+        {
+          "number": 105,
+          "name": "سورة الفيل",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/105/main.m3u8"
+        },
+        {
+          "number": 106,
+          "name": "سورة قريش",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/106/main.m3u8"
+        },
+        {
+          "number": 107,
+          "name": "سورة الماعون",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/107/main.m3u8"
+        },
+        {
+          "number": 108,
+          "name": "سورة الكوثر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/108/main.m3u8"
+        },
+        {
+          "number": 109,
+          "name": "سورة الكافرون",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/109/main.m3u8"
+        },
+        {
+          "number": 110,
+          "name": "سورة النصر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/110/main.m3u8"
+        },
+        {
+          "number": 111,
+          "name": "سورة المسد",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/111/main.m3u8"
+        },
+        {
+          "number": 112,
+          "name": "سورة الإخلاص",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/112/main.m3u8"
+        },
+        {
+          "number": 113,
+          "name": "سورة الفلق",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/113/main.m3u8"
+        },
+        {
+          "number": 114,
+          "name": "سورة الناس",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Muhammad_Ayoub_hls/114/main.m3u8"
+        }
+      ]
+    },
+	{
+      "name": "شیخ فارس العبّاد",
+      "surahs": [
+        {
+          "number": 1,
+          "name": "سورة الفاتحة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/001/main.m3u8"
+        },
+        {
+          "number": 2,
+          "name": "سورة البقرة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/002/main.m3u8"
+        },
+        {
+          "number": 3,
+          "name": "سورة آل عمران",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/003/main.m3u8"
+        },
+        {
+          "number": 4,
+          "name": "سورة النساء",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/004/main.m3u8"
+        },
+        {
+          "number": 5,
+          "name": "سورة المائدة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/005/main.m3u8"
+        },
+        {
+          "number": 6,
+          "name": "سورة الأنعام",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/006/main.m3u8"
+        },
+        {
+          "number": 7,
+          "name": "سورة الأعراف",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/007/main.m3u8"
+        },
+        {
+          "number": 8,
+          "name": "سورة الأنفال",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/008/main.m3u8"
+        },
+        {
+          "number": 9,
+          "name": "سورة التوبة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/009/main.m3u8"
+        },
+        {
+          "number": 10,
+          "name": "سورة يونس",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/010/main.m3u8"
+        },
+        {
+          "number": 11,
+          "name": "سورة هود",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/011/main.m3u8"
+        },
+        {
+          "number": 12,
+          "name": "سورة يوسف",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/012/main.m3u8"
+        },
+        {
+          "number": 13,
+          "name": "سورة الرعد",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/013/main.m3u8"
+        },
+        {
+          "number": 14,
+          "name": "سورة إبراهيم",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/014/main.m3u8"
+        },
+        {
+          "number": 15,
+          "name": "سورة الحجر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/015/main.m3u8"
+        },
+        {
+          "number": 16,
+          "name": "سورة النحل",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/016/main.m3u8"
+        },
+        {
+          "number": 17,
+          "name": "سورة الإسراء",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/017/main.m3u8"
+        },
+        {
+          "number": 18,
+          "name": "سورة الكهف",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/018/main.m3u8"
+        },
+        {
+          "number": 19,
+          "name": "سورة مريم",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/019/main.m3u8"
+        },
+        {
+          "number": 20,
+          "name": "سورة طه",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/020/main.m3u8"
+        },
+        {
+          "number": 21,
+          "name": "سورة الأنبياء",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/021/main.m3u8"
+        },
+        {
+          "number": 22,
+          "name": "سورة الحج",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/022/main.m3u8"
+        },
+        {
+          "number": 23,
+          "name": "سورة المؤمنون",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/023/main.m3u8"
+        },
+        {
+          "number": 24,
+          "name": "سورة النور",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/024/main.m3u8"
+        },
+        {
+          "number": 25,
+          "name": "سورة الفرقان",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/025/main.m3u8"
+        },
+        {
+          "number": 26,
+          "name": "سورة الشعراء",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/026/main.m3u8"
+        },
+        {
+          "number": 27,
+          "name": "سورة النمل",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/027/main.m3u8"
+        },
+        {
+          "number": 28,
+          "name": "سورة القصص",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/028/main.m3u8"
+        },
+        {
+          "number": 29,
+          "name": "سورة العنكبوت",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/029/main.m3u8"
+        },
+        {
+          "number": 30,
+          "name": "سورة الروم",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/030/main.m3u8"
+        },
+        {
+          "number": 31,
+          "name": "سورة لقمان",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/031/main.m3u8"
+        },
+        {
+          "number": 32,
+          "name": "سورة السجدة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/032/main.m3u8"
+        },
+        {
+          "number": 33,
+          "name": "سورة الأحزاب",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/033/main.m3u8"
+        },
+        {
+          "number": 34,
+          "name": "سورة سبإ",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/034/main.m3u8"
+        },
+        {
+          "number": 35,
+          "name": "سورة فاطر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/035/main.m3u8"
+        },
+        {
+          "number": 36,
+          "name": "سورة يس",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/036/main.m3u8"
+        },
+        {
+          "number": 37,
+          "name": "سورة الصافات",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/037/main.m3u8"
+        },
+        {
+          "number": 38,
+          "name": "سورة ص",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/038/main.m3u8"
+        },
+        {
+          "number": 39,
+          "name": "سورة الزمر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/039/main.m3u8"
+        },
+        {
+          "number": 40,
+          "name": "سورة غافر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/040/main.m3u8"
+        },
+        {
+          "number": 41,
+          "name": "سورة فصلت",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/041/main.m3u8"
+        },
+        {
+          "number": 42,
+          "name": "سورة الشورى",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/042/main.m3u8"
+        },
+        {
+          "number": 43,
+          "name": "سورة الزخرف",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/043/main.m3u8"
+        },
+        {
+          "number": 44,
+          "name": "سورة الدخان",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/044/main.m3u8"
+        },
+        {
+          "number": 45,
+          "name": "سورة الجاثية",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/045/main.m3u8"
+        },
+        {
+          "number": 46,
+          "name": "سورة الأحقاف",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/046/main.m3u8"
+        },
+        {
+          "number": 47,
+          "name": "سورة محمد",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/047/main.m3u8"
+        },
+        {
+          "number": 48,
+          "name": "سورة الفتح",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/048/main.m3u8"
+        },
+        {
+          "number": 49,
+          "name": "سورة الحجرات",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/049/main.m3u8"
+        },
+        {
+          "number": 50,
+          "name": "سورة ق",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/050/main.m3u8"
+        },
+        {
+          "number": 51,
+          "name": "سورة الذاريات",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/051/main.m3u8"
+        },
+        {
+          "number": 52,
+          "name": "سورة الطور",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/052/main.m3u8"
+        },
+        {
+          "number": 53,
+          "name": "سورة النجم",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/053/main.m3u8"
+        },
+        {
+          "number": 54,
+          "name": "سورة القمر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/054/main.m3u8"
+        },
+        {
+          "number": 55,
+          "name": "سورة الرحمن",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/055/main.m3u8"
+        },
+        {
+          "number": 56,
+          "name": "سورة الواقعة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/056/main.m3u8"
+        },
+        {
+          "number": 57,
+          "name": "سورة الحديد",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/057/main.m3u8"
+        },
+        {
+          "number": 58,
+          "name": "سورة المجادلة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/058/main.m3u8"
+        },
+        {
+          "number": 59,
+          "name": "سورة الحشر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/059/main.m3u8"
+        },
+        {
+          "number": 60,
+          "name": "سورة الممتحنة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/060/main.m3u8"
+        },
+        {
+          "number": 61,
+          "name": "سورة الصف",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/061/main.m3u8"
+        },
+        {
+          "number": 62,
+          "name": "سورة الجمعة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/062/main.m3u8"
+        },
+        {
+          "number": 63,
+          "name": "سورة المنافقون",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/063/main.m3u8"
+        },
+        {
+          "number": 64,
+          "name": "سورة التغابن",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/064/main.m3u8"
+        },
+        {
+          "number": 65,
+          "name": "سورة الطلاق",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/065/main.m3u8"
+        },
+        {
+          "number": 66,
+          "name": "سورة التحريم",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/066/main.m3u8"
+        },
+        {
+          "number": 67,
+          "name": "سورة الملك",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/067/main.m3u8"
+        },
+        {
+          "number": 68,
+          "name": "سورة القلم",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/068/main.m3u8"
+        },
+        {
+          "number": 69,
+          "name": "سورة الحاقة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/069/main.m3u8"
+        },
+        {
+          "number": 70,
+          "name": "سورة المعارج",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/070/main.m3u8"
+        },
+        {
+          "number": 71,
+          "name": "سورة نوح",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/071/main.m3u8"
+        },
+        {
+          "number": 72,
+          "name": "سورة الجن",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/072/main.m3u8"
+        },
+        {
+          "number": 73,
+          "name": "سورة المزمل",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/073/main.m3u8"
+        },
+        {
+          "number": 74,
+          "name": "سورة المدثر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/074/main.m3u8"
+        },
+        {
+          "number": 75,
+          "name": "سورة القيامة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/075/main.m3u8"
+        },
+        {
+          "number": 76,
+          "name": "سورة الإنسان",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/076/main.m3u8"
+        },
+        {
+          "number": 77,
+          "name": "سورة المرسلات",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/077/main.m3u8"
+        },
+        {
+          "number": 78,
+          "name": "سورة النبأ",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/078/main.m3u8"
+        },
+        {
+          "number": 79,
+          "name": "سورة النازعات",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/079/main.m3u8"
+        },
+        {
+          "number": 80,
+          "name": "سورة عبس",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/080/main.m3u8"
+        },
+        {
+          "number": 81,
+          "name": "سورة التكوير",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/081/main.m3u8"
+        },
+        {
+          "number": 82,
+          "name": "سورة الانفطار",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/082/main.m3u8"
+        },
+        {
+          "number": 83,
+          "name": "سورة المطففين",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/083/main.m3u8"
+        },
+        {
+          "number": 84,
+          "name": "سورة الانشقاق",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/084/main.m3u8"
+        },
+        {
+          "number": 85,
+          "name": "سورة البروج",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/085/main.m3u8"
+        },
+        {
+          "number": 86,
+          "name": "سورة الطارق",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/086/main.m3u8"
+        },
+        {
+          "number": 87,
+          "name": "سورة الأعلى",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/087/main.m3u8"
+        },
+        {
+          "number": 88,
+          "name": "سورة الغاشية",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/088/main.m3u8"
+        },
+        {
+          "number": 89,
+          "name": "سورة الفجر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/089/main.m3u8"
+        },
+        {
+          "number": 90,
+          "name": "سورة البلد",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/090/main.m3u8"
+        },
+        {
+          "number": 91,
+          "name": "سورة الشمس",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/091/main.m3u8"
+        },
+        {
+          "number": 92,
+          "name": "سورة الليل",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/092/main.m3u8"
+        },
+        {
+          "number": 93,
+          "name": "سورة الضحى",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/093/main.m3u8"
+        },
+        {
+          "number": 94,
+          "name": "سورة الشرح",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/094/main.m3u8"
+        },
+        {
+          "number": 95,
+          "name": "سورة التين",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/095/main.m3u8"
+        },
+        {
+          "number": 96,
+          "name": "سورة العلق",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/096/main.m3u8"
+        },
+        {
+          "number": 97,
+          "name": "سورة القدر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/097/main.m3u8"
+        },
+        {
+          "number": 98,
+          "name": "سورة البينة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/098/main.m3u8"
+        },
+        {
+          "number": 99,
+          "name": "سورة الزلزلة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/099/main.m3u8"
+        },
+        {
+          "number": 100,
+          "name": "سورة العاديات",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/100/main.m3u8"
+        },
+        {
+          "number": 101,
+          "name": "سورة القارعة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/101/main.m3u8"
+        },
+        {
+          "number": 102,
+          "name": "سورة التكاثر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/102/main.m3u8"
+        },
+        {
+          "number": 103,
+          "name": "سورة العصر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/103/main.m3u8"
+        },
+        {
+          "number": 104,
+          "name": "سورة الهمزة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/104/main.m3u8"
+        },
+        {
+          "number": 105,
+          "name": "سورة الفيل",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/105/main.m3u8"
+        },
+        {
+          "number": 106,
+          "name": "سورة قريش",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/106/main.m3u8"
+        },
+        {
+          "number": 107,
+          "name": "سورة الماعون",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/107/main.m3u8"
+        },
+        {
+          "number": 108,
+          "name": "سورة الكوثر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/108/main.m3u8"
+        },
+        {
+          "number": 109,
+          "name": "سورة الكافرون",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/109/main.m3u8"
+        },
+        {
+          "number": 110,
+          "name": "سورة النصر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/110/main.m3u8"
+        },
+        {
+          "number": 111,
+          "name": "سورة المسد",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/111/main.m3u8"
+        },
+        {
+          "number": 112,
+          "name": "سورة الإخلاص",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/112/main.m3u8"
+        },
+        {
+          "number": 113,
+          "name": "سورة الفلق",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/113/main.m3u8"
+        },
+        {
+          "number": 114,
+          "name": "سورة الناس",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Fares_Al_Abad_hls/114/main.m3u8"
+        }
+      ]
+    },
+	{
+      "name": "شیخ محمود علی البنّا",
+      "surahs": [
+        {
+          "number": 1,
+          "name": "سورة الفاتحة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/001/main.m3u8"
+        },
+        {
+          "number": 2,
+          "name": "سورة البقرة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/002/main.m3u8"
+        },
+        {
+          "number": 3,
+          "name": "سورة آل عمران",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/003/main.m3u8"
+        },
+        {
+          "number": 4,
+          "name": "سورة النساء",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/004/main.m3u8"
+        },
+        {
+          "number": 5,
+          "name": "سورة المائدة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/005/main.m3u8"
+        },
+        {
+          "number": 6,
+          "name": "سورة الأنعام",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/006/main.m3u8"
+        },
+        {
+          "number": 7,
+          "name": "سورة الأعراف",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/007/main.m3u8"
+        },
+        {
+          "number": 8,
+          "name": "سورة الأنفال",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/008/main.m3u8"
+        },
+        {
+          "number": 9,
+          "name": "سورة التوبة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/009/main.m3u8"
+        },
+        {
+          "number": 10,
+          "name": "سورة يونس",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/010/main.m3u8"
+        },
+        {
+          "number": 11,
+          "name": "سورة هود",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/011/main.m3u8"
+        },
+        {
+          "number": 12,
+          "name": "سورة يوسف",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/012/main.m3u8"
+        },
+        {
+          "number": 13,
+          "name": "سورة الرعد",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/013/main.m3u8"
+        },
+        {
+          "number": 14,
+          "name": "سورة إبراهيم",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/014/main.m3u8"
+        },
+        {
+          "number": 15,
+          "name": "سورة الحجر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/015/main.m3u8"
+        },
+        {
+          "number": 16,
+          "name": "سورة النحل",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/016/main.m3u8"
+        },
+        {
+          "number": 17,
+          "name": "سورة الإسراء",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/017/main.m3u8"
+        },
+        {
+          "number": 18,
+          "name": "سورة الكهف",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/018/main.m3u8"
+        },
+        {
+          "number": 19,
+          "name": "سورة مريم",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/019/main.m3u8"
+        },
+        {
+          "number": 20,
+          "name": "سورة طه",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/020/main.m3u8"
+        },
+        {
+          "number": 21,
+          "name": "سورة الأنبياء",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/021/main.m3u8"
+        },
+        {
+          "number": 22,
+          "name": "سورة الحج",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/022/main.m3u8"
+        },
+        {
+          "number": 23,
+          "name": "سورة المؤمنون",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/023/main.m3u8"
+        },
+        {
+          "number": 24,
+          "name": "سورة النور",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/024/main.m3u8"
+        },
+        {
+          "number": 25,
+          "name": "سورة الفرقان",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/025/main.m3u8"
+        },
+        {
+          "number": 26,
+          "name": "سورة الشعراء",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/026/main.m3u8"
+        },
+        {
+          "number": 27,
+          "name": "سورة النمل",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/027/main.m3u8"
+        },
+        {
+          "number": 28,
+          "name": "سورة القصص",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/028/main.m3u8"
+        },
+        {
+          "number": 29,
+          "name": "سورة العنكبوت",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/029/main.m3u8"
+        },
+        {
+          "number": 30,
+          "name": "سورة الروم",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/030/main.m3u8"
+        },
+        {
+          "number": 31,
+          "name": "سورة لقمان",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/031/main.m3u8"
+        },
+        {
+          "number": 32,
+          "name": "سورة السجدة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/032/main.m3u8"
+        },
+        {
+          "number": 33,
+          "name": "سورة الأحزاب",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/033/main.m3u8"
+        },
+        {
+          "number": 34,
+          "name": "سورة سبإ",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/034/main.m3u8"
+        },
+        {
+          "number": 35,
+          "name": "سورة فاطر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/035/main.m3u8"
+        },
+        {
+          "number": 36,
+          "name": "سورة يس",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/036/main.m3u8"
+        },
+        {
+          "number": 37,
+          "name": "سورة الصافات",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/037/main.m3u8"
+        },
+        {
+          "number": 38,
+          "name": "سورة ص",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/038/main.m3u8"
+        },
+        {
+          "number": 39,
+          "name": "سورة الزمر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/039/main.m3u8"
+        },
+        {
+          "number": 40,
+          "name": "سورة غافر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/040/main.m3u8"
+        },
+        {
+          "number": 41,
+          "name": "سورة فصلت",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/041/main.m3u8"
+        },
+        {
+          "number": 42,
+          "name": "سورة الشورى",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/042/main.m3u8"
+        },
+        {
+          "number": 43,
+          "name": "سورة الزخرف",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/043/main.m3u8"
+        },
+        {
+          "number": 44,
+          "name": "سورة الدخان",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/044/main.m3u8"
+        },
+        {
+          "number": 45,
+          "name": "سورة الجاثية",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/045/main.m3u8"
+        },
+        {
+          "number": 46,
+          "name": "سورة الأحقاف",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/046/main.m3u8"
+        },
+        {
+          "number": 47,
+          "name": "سورة محمد",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/047/main.m3u8"
+        },
+        {
+          "number": 48,
+          "name": "سورة الفتح",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/048/main.m3u8"
+        },
+        {
+          "number": 49,
+          "name": "سورة الحجرات",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/049/main.m3u8"
+        },
+        {
+          "number": 50,
+          "name": "سورة ق",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/050/main.m3u8"
+        },
+        {
+          "number": 51,
+          "name": "سورة الذاريات",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/051/main.m3u8"
+        },
+        {
+          "number": 52,
+          "name": "سورة الطور",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/052/main.m3u8"
+        },
+        {
+          "number": 53,
+          "name": "سورة النجم",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/053/main.m3u8"
+        },
+        {
+          "number": 54,
+          "name": "سورة القمر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/054/main.m3u8"
+        },
+        {
+          "number": 55,
+          "name": "سورة الرحمن",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/055/main.m3u8"
+        },
+        {
+          "number": 56,
+          "name": "سورة الواقعة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/056/main.m3u8"
+        },
+        {
+          "number": 57,
+          "name": "سورة الحديد",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/057/main.m3u8"
+        },
+        {
+          "number": 58,
+          "name": "سورة المجادلة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/058/main.m3u8"
+        },
+        {
+          "number": 59,
+          "name": "سورة الحشر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/059/main.m3u8"
+        },
+        {
+          "number": 60,
+          "name": "سورة الممتحنة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/060/main.m3u8"
+        },
+        {
+          "number": 61,
+          "name": "سورة الصف",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/061/main.m3u8"
+        },
+        {
+          "number": 62,
+          "name": "سورة الجمعة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/062/main.m3u8"
+        },
+        {
+          "number": 63,
+          "name": "سورة المنافقون",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/063/main.m3u8"
+        },
+        {
+          "number": 64,
+          "name": "سورة التغابن",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/064/main.m3u8"
+        },
+        {
+          "number": 65,
+          "name": "سورة الطلاق",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/065/main.m3u8"
+        },
+        {
+          "number": 66,
+          "name": "سورة التحريم",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/066/main.m3u8"
+        },
+        {
+          "number": 67,
+          "name": "سورة الملك",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/067/main.m3u8"
+        },
+        {
+          "number": 68,
+          "name": "سورة القلم",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/068/main.m3u8"
+        },
+        {
+          "number": 69,
+          "name": "سورة الحاقة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/069/main.m3u8"
+        },
+        {
+          "number": 70,
+          "name": "سورة المعارج",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/070/main.m3u8"
+        },
+        {
+          "number": 71,
+          "name": "سورة نوح",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/071/main.m3u8"
+        },
+        {
+          "number": 72,
+          "name": "سورة الجن",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/072/main.m3u8"
+        },
+        {
+          "number": 73,
+          "name": "سورة المزمل",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/073/main.m3u8"
+        },
+        {
+          "number": 74,
+          "name": "سورة المدثر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/074/main.m3u8"
+        },
+        {
+          "number": 75,
+          "name": "سورة القيامة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/075/main.m3u8"
+        },
+        {
+          "number": 76,
+          "name": "سورة الإنسان",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/076/main.m3u8"
+        },
+        {
+          "number": 77,
+          "name": "سورة المرسلات",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/077/main.m3u8"
+        },
+        {
+          "number": 78,
+          "name": "سورة النبأ",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/078/main.m3u8"
+        },
+        {
+          "number": 79,
+          "name": "سورة النازعات",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/079/main.m3u8"
+        },
+        {
+          "number": 80,
+          "name": "سورة عبس",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/080/main.m3u8"
+        },
+        {
+          "number": 81,
+          "name": "سورة التكوير",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/081/main.m3u8"
+        },
+        {
+          "number": 82,
+          "name": "سورة الانفطار",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/082/main.m3u8"
+        },
+        {
+          "number": 83,
+          "name": "سورة المطففين",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/083/main.m3u8"
+        },
+        {
+          "number": 84,
+          "name": "سورة الانشقاق",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/084/main.m3u8"
+        },
+        {
+          "number": 85,
+          "name": "سورة البروج",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/085/main.m3u8"
+        },
+        {
+          "number": 86,
+          "name": "سورة الطارق",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/086/main.m3u8"
+        },
+        {
+          "number": 87,
+          "name": "سورة الأعلى",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/087/main.m3u8"
+        },
+        {
+          "number": 88,
+          "name": "سورة الغاشية",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/088/main.m3u8"
+        },
+        {
+          "number": 89,
+          "name": "سورة الفجر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/089/main.m3u8"
+        },
+        {
+          "number": 90,
+          "name": "سورة البلد",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/090/main.m3u8"
+        },
+        {
+          "number": 91,
+          "name": "سورة الشمس",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/091/main.m3u8"
+        },
+        {
+          "number": 92,
+          "name": "سورة الليل",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/092/main.m3u8"
+        },
+        {
+          "number": 93,
+          "name": "سورة الضحى",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/093/main.m3u8"
+        },
+        {
+          "number": 94,
+          "name": "سورة الشرح",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/094/main.m3u8"
+        },
+        {
+          "number": 95,
+          "name": "سورة التين",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/095/main.m3u8"
+        },
+        {
+          "number": 96,
+          "name": "سورة العلق",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/096/main.m3u8"
+        },
+        {
+          "number": 97,
+          "name": "سورة القدر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/097/main.m3u8"
+        },
+        {
+          "number": 98,
+          "name": "سورة البينة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/098/main.m3u8"
+        },
+        {
+          "number": 99,
+          "name": "سورة الزلزلة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/099/main.m3u8"
+        },
+        {
+          "number": 100,
+          "name": "سورة العاديات",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/100/main.m3u8"
+        },
+        {
+          "number": 101,
+          "name": "سورة القارعة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/101/main.m3u8"
+        },
+        {
+          "number": 102,
+          "name": "سورة التكاثر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/102/main.m3u8"
+        },
+        {
+          "number": 103,
+          "name": "سورة العصر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/103/main.m3u8"
+        },
+        {
+          "number": 104,
+          "name": "سورة الهمزة",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/104/main.m3u8"
+        },
+        {
+          "number": 105,
+          "name": "سورة الفيل",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/105/main.m3u8"
+        },
+        {
+          "number": 106,
+          "name": "سورة قريش",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/106/main.m3u8"
+        },
+        {
+          "number": 107,
+          "name": "سورة الماعون",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/107/main.m3u8"
+        },
+        {
+          "number": 108,
+          "name": "سورة الكوثر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/108/main.m3u8"
+        },
+        {
+          "number": 109,
+          "name": "سورة الكافرون",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/109/main.m3u8"
+        },
+        {
+          "number": 110,
+          "name": "سورة النصر",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/110/main.m3u8"
+        },
+        {
+          "number": 111,
+          "name": "سورة المسد",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/111/main.m3u8"
+        },
+        {
+          "number": 112,
+          "name": "سورة الإخلاص",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/112/main.m3u8"
+        },
+        {
+          "number": 113,
+          "name": "سورة الفلق",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/113/main.m3u8"
+        },
+        {
+          "number": 114,
+          "name": "سورة الناس",
+          "audio": "https://pub-df63bfc4419f4015989dbf82954044cb.r2.dev/Sheikh_Mahmoud_Ali_Al_Banna_hls/114/main.m3u8"
+        }
+      ]
+    },
+	{
       "name": "عبداللہ عواد الجہنی",
       "surahs": [
         {
